@@ -1,0 +1,19 @@
+﻿body 
+{
+	 background: -webkit-linear-gradient(rgba(228, 228, 228, 0.95), rgba(228, 228, 228, 0.95)), url(../img/dome.jpg) no-repeat top center;
+    background: linear-gradient(
+      rgba(228, 228, 228, 0.95), 
+	  rgba(228, 228, 228, 0.95)
+    ), url(../img/dome.jpg) no-repeat top center;
+    background-size: cover;
+}
+.contact-container {
+    background: white;
+    float: left;
+    width: 68%;
+    margin-right: 2%;
+    height: 1040px;
+    -webkit-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+

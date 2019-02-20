@@ -1,0 +1,417 @@
+body {
+
+    background: -webkit-linear-gradient(rgba(228, 228, 228, 0.95), rgba(228, 228, 228, 0.95)), url(../img/dome.jpg) no-repeat center;
+
+    background: linear-gradient(
+      rgba(228, 228, 228, 0.95), 
+	  rgba(228, 228, 228, 0.95)
+    ), url(../img/dome.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#type-selector {
+    display: none;
+}
+
+.ratings-wrapper {
+    padding-top: 80px;
+    min-height: 78.6vh;
+}
+
+.ratings-wrapper .sidebar {
+    float: left;
+    width: 18%;
+}
+/*.ratings-wrapper .sidebar li a {
+    line-height: 1.4em;
+    padding: 10px;
+    vertical-align: middle;
+    color: rgba(53, 126, 178, 0.6);
+    text-align: right;
+    float: right;
+    display: inline-block;
+    width: 100%;
+    cursor:default;
+    -webkit-transition: all 0.1s ease-in-out;
+    
+            transition: all 0.1s ease-in-out;
+}
+
+
+.ratings-wrapper .sidebar li .current {
+    color: #357EB2;
+    font-weight: bold;
+}
+
+.ratings-wrapper .sidebar li .current:hover {
+    color: #357EB2;
+    padding-right: 10px;
+    cursor: default;
+}
+
+.ratings-wrapper .sidebar li a:hover {
+	color: #3796D1;
+    padding-right: 13px;
+}
+
+.ratings-wrapper .sidebar .sub {
+    width: 90%;
+}
+
+.ratings-wrapper .sidebar .sub li a { 
+    padding: 5px;
+    font-size: 14px;
+}
+
+.ratings-wrapper .sidebar .sub li a:hover {
+	color: #3796D1;
+    padding-right: 8px;
+}
+/*************************** sidebar nav ************************/
+
+.sidebar
+{
+		
+ display: block;
+    font: 13px Roboto, Arial, sans-serif;
+    text-transform: uppercase;
+    margin: 0; 
+    padding: 0;
+	}
+
+.sidebar li {
+  list-style: none;
+
+}
+
+.sidebar .button-dropdown {
+    position: relative;
+}
+
+.sidebar li a {
+    display: block;
+     color: rgba(53, 126, 178, 0.6);
+    padding: 10px 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.sidebar li a span {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 10px;
+    color: #999;
+}
+
+.sidebar li a:hover, .sidebar li a.dropdown-toggle.active {
+       font-weight: bold;
+    color:#357eb2;
+    
+}
+
+.sidebar li a:hover span, .sidebar li a.dropdown-toggle.active span {
+    color: #fff;
+}
+
+.sidebar li .dropdown-menu {
+    display: none;
+   /*position: absolute;*/
+    left: 0;
+    padding: 0;
+ margin-left: 27px;
+    margin-top: 3px;
+    text-align: left;
+}
+
+.sidebar li .dropdown-menu.active {
+    display: block;
+}
+
+.sidebar li .dropdown-menu a {
+    width: 100%;
+}
+
+/****************************************************************/
+
+.ratings-wrapper #ratings-search {
+    float: left;
+    width: 72%;
+    margin-left: 1%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.ratings-wrapper #ratings-search span.fa-search {
+    display: inline-block;
+    padding: 8px;
+    color: #357EB2
+}
+
+.ratings-wrapper #ratings-search input {
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    font-family: Roboto;
+    width: 300px;
+    border-radius: 3px;
+}
+
+.no-search-results {
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    font-size: 16px;
+    padding: 30px;
+    color: white;
+    width: 100%;
+}
+
+.table-no-results {
+    background-color: #C1C1C1 !important;
+}
+
+.ratings-wrapper .ratings-table {
+    position: relative;
+    float: left;
+    width: 80%;
+    margin-left: 1%;
+	text-align: left;
+    background: rgba(255, 255, 255, 1);
+}
+
+.ratings-wrapper .sector-selector {
+    width: 100%;
+    padding: 10px;
+    background: #f4f4f4;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #333333;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+    -webkit-transition: all 100ms ease-in-out;
+    
+            transition: all 100ms ease-in-out;
+}
+
+.ratings-wrapper .sector-selector:hover {
+    cursor: pointer;
+}
+
+
+.ratings-wrapper #type-selector {
+    width: 100%;
+    padding: 10px;
+    background: #f4f4f4;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #333333;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+    -webkit-transition: all 100ms ease-in-out;
+    
+            transition: all 100ms ease-in-out;
+}
+
+.ratings-wrapper #type-selector:hover {
+    cursor: pointer;
+}
+
+.ratings-wrapper .ratings-table .ratings-data {
+    position: relative;
+    overflow: auto;
+    height: 600px;
+}
+
+.ratings-wrapper .ratings-table .ratings-data table {
+    min-width: 720px;
+    width: 100%;
+}
+
+.ratings-wrapper .ratings-table table .scrollable-data {
+    height: 80vh;
+    overflow: auto;
+}
+
+.ratings-wrapper .ratings-table th {
+	background: #F4F4F4;
+    height: 50px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0px 15px;
+    -webkit-transition: all 0.1s ease-in-out;
+            transition: all 0.1s ease-in-out;
+    color: #353535;
+}
+
+.ratings-wrapper .ratings-table th:hover {
+	background: #e8e8e8;
+}
+
+.ratings-wrapper .ratings-table th:active {
+	background: #d9d9d9;
+}
+
+.ratings-wrapper .ratings-table td {
+	height: 25px;
+	vertical-align: middle;
+	color: #357EB2;
+	font-size: 14px;
+	-webkit-transition: all 0.1s ease-in-out;
+	        transition: all 0.1s ease-in-out;
+}
+
+.ratings-wrapper .ratings-table .row {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+	
+	-webkit-transition: all 0.1s ease-in-out;
+	
+	        transition: all 0.1s ease-in-out;
+}
+
+.ratings-wrapper .ratings-table .row:hover {
+    background: rgba(0,0,0,0.03);
+}
+
+.ratings-wrapper .ratings-table .row:last-child {
+    border-bottom: none;
+}
+
+.ratings-wrapper .ratings-table .name {
+    width: 30%;
+}
+
+.ratings-wrapper .ratings-table .data td {    
+    padding: 10px 15px 5px 15px;
+    line-height: 1.5em;
+    vertical-align: top;
+}
+
+.ratings-wrapper .ratings-table .files td {
+    text-align: left;
+    padding-left: 15px;
+    color: #9B9B9B;
+    position: relative;
+    font-size: 12px;
+    bottom: 6px;
+    font-weight: normal;
+
+}
+
+.ratings-wrapper .ratings-table .files a {
+    -webkit-transition: all .1s ease-in-out;
+            transition: all .1s ease-in-out;
+
+}
+
+.ratings-wrapper .ratings-table .files a:hover {
+	color: #357EB2;
+
+}
+
+
+.ratings-wrapper .ratings-table .files li {
+	display: inline-block;
+
+}
+
+.ratings-wrapper .ratings-table .sector-header h2 {
+    background: #D1D1D1;
+    color: #353535;
+    padding: 12px 15px;
+    font-weight: bold;
+}
+
+
+.ratings-wrapper .ratings-table .sector-type h3 {
+      background: rgba(148, 146, 146, 0.83);
+    color: #151414;
+    padding: 12px 15px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 1150px) {
+    
+    .ratings-wrapper .sidebar li a {
+        font-size: 14px;
+    }
+    
+    .ratings-wrapper .sidebar .sub li a {
+        font-size: 12px;
+    }
+    
+    .ratings-wrapper .sector-selector {
+        font-size: 12px;
+    }
+    
+    .ratings-wrapper .ratings-table th {
+        font-size: 12px;
+    }
+    
+    .ratings-wrapper .ratings-table td {
+        font-size: 12px;
+    }
+    
+} /* @media */
+
+@media screen and (max-width: 880px) {
+    
+    #type-selector {
+        display: block;
+    }
+    
+    .ratings-wrapper .sidebar {
+        display: none;
+    }
+    
+    .ratings-wrapper .ratings-table {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .ratings-wrapper #ratings-search {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .ratings-wrapper #ratings-search span.fa-search {
+        float: left;
+        text-align: center;
+        width: 5%;
+    }
+
+    .ratings-wrapper #ratings-search input {
+        margin-left: 1%;
+        width: 94%;
+    }
+    
+    
+} /* @media */
+
+@media screen and (max-width: 600px) {
+    
+    .ratings-wrapper #ratings-search {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .ratings-wrapper #ratings-search span.fa-search {
+        float: left;
+        text-align: center;
+        width: 10%;
+    }
+
+    .ratings-wrapper #ratings-search input {
+        margin-left: 2%;
+        width: 88%;
+    }
+    
+    
+} /* @media */

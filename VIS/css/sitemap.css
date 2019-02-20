@@ -1,0 +1,76 @@
+body {
+
+    background: -webkit-linear-gradient(rgba(228, 228, 228, 0.95), rgba(228, 228, 228, 0.95)), url(../img/dome.jpg) no-repeat center;
+
+    background: linear-gradient(
+      rgba(228, 228, 228, 0.95), 
+	  rgba(228, 228, 228, 0.95)
+    ), url(../img/dome.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#content-container {
+    padding-top: 80px;
+    min-height: 78.6vh;
+}
+
+.box {
+    background: white;
+}
+
+.box .sitemap a { 
+    text-decoration: none;
+/*    color: #eee;*/
+    display: block;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.05);
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+    -webkit-transition: all 100ms ease-in-out;
+            transition: all 100ms ease-in-out;
+    position: relative;
+}
+.box .sitemap a:hover {
+/*    text-decoration: underline;*/
+    background-color: rgba(0,0,0,0.3);
+    padding-left: 18px;
+}
+
+.box .sitemap ul:first-child {
+    margin-left: 0px;
+}
+.box .sitemap ul {
+    margin-left: 25px;
+    background: rgba(0,0,0,0.8);
+    color: white;
+}
+
+.box .sitemap ul li a span {
+    display: inline-block;
+    padding: 20px;
+    top: 0;
+/*    left: 5px;*/
+    position: absolute;
+    margin-left: 15px;
+    -webkit-transition: all 100ms ease-in-out;
+            transition: all 100ms ease-in-out;
+    background-color: rgba(0,0,0,0.1);
+}
+
+.box .sitemap ul li a span:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.box .sitemap ul ul { 
+    display: none;
+    background: rgba(0,0,0,0.3);
+}
+.box .sitemap ul ul ul {  }
+.box .sitemap ul ul ul ul {  }
+
+hr {
+    margin: 0px;
+    padding: 0px;
+    border: 3px solid rgba(0,0,0,0.5);
+}
+

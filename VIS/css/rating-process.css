@@ -1,0 +1,126 @@
+body {
+    background: -webkit-linear-gradient(rgba(228, 228, 228, 0.95), rgba(228, 228, 228, 0.95)), url(../img/dome.jpg) no-repeat top center;
+    background: linear-gradient(
+      rgba(228, 228, 228, 0.95), 
+	  rgba(228, 228, 228, 0.95)
+    ), url(../img/dome.jpg) no-repeat top center;
+    background-size: cover;
+}
+
+#content-container {
+    padding-top: 80px;
+    color: #333333;
+}
+
+.rating-process table {    
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.3em;
+}
+
+/* Gray rows get this default styling */
+
+.rating-process table tr {
+/*    border-bottom: 2px solid white;    */
+}
+
+.rating-process table tr th {
+    font-weight: bold;
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
+    background: white;
+    border-right: 5px solid #d0d0d0;
+    text-transform: uppercase;
+    -webkit-transition: all 200ms ease-in-out;
+            transition: all 200ms ease-in-out;
+}
+
+.rating-process table tr td {
+    float: left;
+    padding: 15px;
+    vertical-align: middle;
+    width: 100%;
+    background: white;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    -webkit-transition: all 200ms ease-in-out;
+            transition: all 200ms ease-in-out;
+
+}
+
+/* Blue rows get this styling */
+
+.rating-process table tr.blue th {
+    background: #bee2ff;
+    border-right: 5px solid #357EB2;
+/*    color: white;*/
+}
+
+.rating-process table tr.blue td {
+    background: #bee2ff;
+}
+
+/* duration marker */
+
+.rating-process table tr.duration th {
+    width: 100%;
+    background: white;
+    text-align: center;
+    padding: 20px;
+    color: #357EB2;
+    font-size: 20px;
+    border: none;
+}
+
+
+
+
+
+
+@media screen and (max-width: 960px) {
+    
+    .rating-process table {
+        font-size: 14px;
+    }
+    
+    .rating-process table tr.duration th {
+        font-size: 18px;
+    }
+    
+} /* @media */
+
+
+
+
+
+@media screen and (max-width: 750px) {
+    
+    .rating-process table tr th {
+        float: left;
+        width: 100%;
+        padding: 13px;
+        border-right: none;
+        background-color: #EEEEEE;
+    }
+    
+    .rating-process table tr.blue th {
+        
+        background-color: #BEE2FF;
+    }
+    
+    .rating-process table tr th {
+        float: left;
+        width: 100%
+    }
+    
+    .rating-process table tr.blue th {
+        border-right: none;
+    }
+    
+    .rating-process table tr td {
+        background-color: #EEEEEE;
+    }
+    
+    
+    
+} /* @media */

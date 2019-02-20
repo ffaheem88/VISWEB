@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>JCR-VIS | Credit Rating Co. Ltd.</title>
+
+      <!-- includes -->
+            <!-- jQuery -->
+        <script src="js/lib/jquery-1.11.3.min.js"></script>
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+      <!-- custom -->
+             <link rel="favicon icon" href="favicon.png"> 
+            <link rel="stylesheet" href="css/globals/RESET.css">
+        <link rel="stylesheet" href="css/globals/FONTS.css">
+        <link rel="stylesheet" href="css/globals/MAIN.css">
+        <script src="js/lib/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+</head>
+<body>
+
+    <div id="header-container">
+       
+        <div class="mobile-indicator"></div>
+
+        <div id="header" class="site-width">
+
+            <div id="logo" class="color-text">
+                <a href="home.html" class="color-text" title="Go to Home Page">JCR-VIS <span>Credit Rating Company Limited</span></a>
+            </div> <!-- #logo -->
+            
+            <div class="nav-container">
+              <div class="scrollable">
+               <ul id="nav" class="color-text">
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li class="dropdown"><a id="ratings" href="ratings.html">Ratings</a>
+                        <div class="sub-menu row box-shadow">
+                            <div class="column">
+                                <ul>
+                                    <li><a href="rating-process.html">Rating Process</a></li>
+                                    <li><a class="pdf" href="docs/sample.pdf">Rating Fee Structure</a></li>
+                                    <li><a href="rating-scales.html">Rating Scales &amp; Definitions</a></li>
+                                    <li><a href="purchase-rating-report.html">Purchase Rating Report</a></li>
+                                </ul>
+                            </div>
+                            <div class="column">
+                                <ul>
+                                    <li><a href="ratings.html?rating=credit">Credit Ratings</a></li>
+                                    <li><a href="ratings.html?rating=ifs">IFS Ratings</a></li>
+                                    <li><a href="ratings.html?rating=funds">Funds Stability Ratings</a></li>
+                                    <li><a href="ratings.html?rating=asset">Asset Manager Quality Ratings</a></li>
+                                    <li><a href="ratings.html?rating=mutual">Mutual Funds Star Rankings</a></li>
+                                    <li><a href="ratings.html?rating=corporate">Corporate Governance Ratings</a></li>
+                                    <li><a href="ratings.html?rating=stock-broker">Stock Brokers Gradings</a></li>
+                                </ul>
+                
+                            </div>
+                            <div class="column">
+                                <ul>
+                                    <li><a href="ratings.html">All Sectors</a></li>
+                                    <li><a href="ratings.html?sector=insurance">Insurance</a></li>
+                                    <li><a href="ratings.html?sector=mutual-funds">Mutual Funds</a></li>
+                                    <li><a href="ratings.html?sector=micro-finance">Micro Finance</a></li>
+                                    <li><a href="ratings.html?sector=textiles">Textiles</a></li>
+                                    <li><a href="ratings.html?sector=sugar">Sugar</a></li>
+                                    <li><a href="ratings.html?sector=chemical-pharma">Chemicals &amp; Pharma</a></li>
+                                    <li><a href="ratings.html?sector=steel-allied">Steel &amp; Allied Products</a></li>
+                                    <li><a href="ratings.html?sector=power">Power Companies</a></li>
+                                </ul>
+                            </div>
+                            <div class="column">
+                                <ul>
+                                    <li><a href="ratings.html?sector=commercial-banks">Commercial Banks</a></li>
+                                    <li><a href="ratings.html?sector=dfis">DFIs</a></li>
+                                    <li><a href="ratings.html?sector=nbfcs">NBFCs</a></li>
+                                    <li><a href="ratings.html?sector=modorabas">Modorabas</a></li>
+                                    <li><a href="ratings.html?sector=consumer-goods">Consumer Goods</a></li>
+                                    <li><a href="ratings.html?sector=oil-gas">Oil &amp; Gas</a></li>
+                                    <li><a href="ratings.html?sector=construction">Construction</a></li>
+                                    <li><a href="ratings.html?sector=brokerage-security">Brokerage &amp; Security Firms</a></li>
+                                </ul>
+                            </div>
+                        </div> <!-- .sub-menu -->
+                    </li>
+                    <li><a href="services.html">Services</a></li>
+                    <li class="dropdown"><a href="kc-meth.html">Knowledge Center</a>
+                        <div class="sub-menu row box-shadow">
+                            <div class="column">
+                                <ul>
+                                    <li><a href="kc-meth.html">Methodologies</a></li>
+                                    <li><a href="kc-sect.html">Sector Updates</a></li>
+                                    <li><a href="kc-benefits.html">Benefits of Ratings</a></li>
+                                    <li><a href="kc.html">Understanding Ratings</a></li>
+                                    <li><a href="kc-faq.html">FAQ</a></li>
+                                </ul>
+                            </div>
+                        </div> <!-- .sub-menu -->
+                    </li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li id="sitemap" style="display: none;"><a href="sitemap.html">Sitemap</a></li>
+                    <!--
+                    <li id="search">
+                        <a><span class="fa fa-search"></span></a>
+                        <div class="search-input"><input type="search" placeholder="Type to search...">
+                        </div>
+                    </li>
+                    -->
+                </ul> <!-- #nav -->
+                </div> <!-- .scrollable -->
+            </div> <!-- .nav-container -->
+
+        </div> <!-- #header -->
+
+    </div> <!-- #header-container -->
+
+    <div id="content-container">
+        
+        <div class="pdf-viewer">
+            <div class="wrapper">
+                <div class="close"><span class="fa fa-close"></span></div>
+                <div class="content">
+                    <iframe src="" style="width: 100%; height: 100%;" frameborder="0"></iframe>
+                </div>
+            </div> <!-- .wrapper -->
+        </div> <!-- .pdf-viewer -->
+        
+        <div class="box site-width">
+            
+            <div class="under-dev">
+                <div class="icon"><span class="fa fa-cog fa-spin"></span></div>
+                <h1>Under Development</h1>
+                <p>This page is currently under development and will be available soon.</p>
+            </div>
+            
+        </div> <!-- END .box -->
+            
+
+    </div> <!-- #content-container -->
+
+    <div id="footer-container" class="color white-text">
+        <div id="footer">
+
+            <div id="row-1" class="site-width cf">
+                <ul class="main-menu">
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="ratings.html">Ratings</a></li>
+                    <li><a href="kc-meth.html">Knowledge Center</a>
+                    </li>
+                </ul>
+
+                <ul class="secondary-menu">
+                    <li><a href="contact.html">Feedback &amp; Complaints</a></li>
+                    <li><a href="purchase-rating-report.html">Purchase Rating Report</a></li>
+                    <li><a href="sitemap.html">Sitemap</a></li>
+                </ul>
+
+                <br>
+                <p class="copyright">Copyright © 2016 JCR-VIS Credit Rating Company Pvt. Ltd. All Rights Reserved.</p>
+                <p class="watermark">Designed by <a href="http://be.net/skygreen" target="_blank">SkyGreen</a></p>
+            </div> <!-- #row-1 -->
+
+            <div id="row-2" class="cf">
+                <p class="disclaimer site-width">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat aspernatur dolores veniam non nam quam maxime quidem numquam voluptas sit libero modi cumque, dolorum optio odio voluptatem animi explicabo natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat aspernatur dolores veniam non nam quam maxime quidem numquam voluptas sit libero modi cumque, dolorum optio odio voluptatem animi explicabo natus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat aspernatur dolores veniam non nam quam maxime quidem numquam voluptas sit libero modi cumque, dolorum optio odio voluptatem animi explicabo natus. Read full disclaimer <a href="" class="more">here</a> </p>
+            </div> <!-- #row-2 -->
+        </div> <!-- #footer -->
+    </div> <!-- #footer-container -->
+</body>
+</html>

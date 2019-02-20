@@ -1,0 +1,105 @@
+body {
+    background: white;
+}
+
+#header-container {
+    position: static;
+    margin-bottom: 0px;
+}
+#content-container {
+    color: #333333;
+    line-height: 1.3em;
+    padding-top: 0px;
+}
+
+.pr-header {
+    width: 100%;
+    background: #357EB2;
+}
+
+.pr-header .wrapper {
+    color: white;
+    padding: 50px;
+    text-align: center;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.42);
+}
+
+.pr-header h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 1em;
+    white-space: nowrap;
+}
+
+.pr-header .date {
+    line-height: 1.3em;
+    font-size: 20px;
+    border-top: 1px solid white;
+    padding: 15px;
+    margin-top: 15px;
+    font-weight: lighter;
+    text-transform: none;
+}
+
+.pr-content ul {
+    list-style: circle;
+    list-style: inside;
+}
+
+.pr-content h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px 0px;
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+    line-height: 1.3em;
+}
+
+.pr-content p {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.pr-footer {
+    width: 100%;
+    background: gray;
+    margin-top: 30px;
+}
+
+.pr-footer .disclaimer {
+    color: white;
+    padding: 20px 0px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+
+
+@media screen and (max-width: 960px) {
+    .pr-header h1 {
+        font-size: 30px;
+    }
+    
+    .pr-header .date {
+        font-size: 18px;
+    }
+    
+    .pr-content h2 {
+        font-size: 18px;
+    }
+} 
+
+
+
+
+@media screen and (max-width: 600px) {
+    .pr-header h1 {
+        font-size: 22px;
+    }
+    
+    .pr-header .date {
+        font-size: 14px;
+    }
+} 
