@@ -280,7 +280,7 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 #slide-6 {
     background: url(../img/WebsiteBanner2.png) no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 100% 110%;
 }
 .slider marquee.partners {
 	background: rgba(53,126,178,0.95);
