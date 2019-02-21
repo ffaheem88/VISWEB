@@ -210,7 +210,7 @@
                    Dim arrSTRat As String()
                    Dim arroutlook As String()
                    Dim Con = New System.Data.SqlClient.SqlConnection
-                   
+
                    Dim sec = Request.QueryString("sec")
 
                    If sec = 16 Then
@@ -228,7 +228,7 @@
 
 
                    Cmd.Connection = Con
-                   Cmd.CommandText = " select * from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  rhdate>(select getDate()-913) AND( ltrating not like 'D%' and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public')) and CatId !=7 " + sec + "  order by  sectortype_code,secname,companyname asc"
+                   Cmd.CommandText = " select * from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  rhdate>(select getDate()-913) and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') and CatId !=7 " + sec + "  order by  sectortype_code,secname,companyname asc"
                    Dim da = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    da.Fill(ds)
                    Con.Close()
@@ -270,7 +270,7 @@
 
                    Con.Open()
                    Cmd.Connection = Con
-                   Cmd.CommandText = "select LEFT(m_RatingCode,8)AS Contract,* from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where ratingid not in(Select ratingid from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where rhdate<(select getDate()-913) OR ltrating like 'D%' OR actiontype in ('withdrawn','Discontinued','Matured','Withdrawn from Public')) and CatId !=7 AND catId in(2,14) order by sectortype_code,secname,companyname asc,RHdate desc "
+                   Cmd.CommandText = "select LEFT(m_RatingCode,8)AS Contract,* from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where ratingid not in(Select ratingid from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where rhdate<(select getDate()-913) OR actiontype in ('withdrawn','Discontinued','Matured','Withdrawn from Public')) and CatId !=7 AND catId in(2,14) order by sectortype_code,secname,companyname asc,RHdate desc "
                    Dim dacg = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    dacg.Fill(dscg)
                    Con.Close()
@@ -278,7 +278,7 @@
                    Con.Open()
                    Cmd.Connection = Con
                    'Cmd.CommandText = " select * from [jcrvis_Vista].[dbo].[Vu_CurRating_Home] where  (RatingType = 'Entity') AND (ActionType <> 'Withdrawn') ORDER BY RHDate DESC"(831)
-                   Cmd.CommandText = "select * from [jcrvis_Vista].[jcrvis_sa8].[sectVu_CurRating] where  (RatingType = 'Entity') and ratingid not in(Select ratingid from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where rhdate<(select getDate()-913) OR ltrating like 'D%' OR actiontype in ('withdrawn','Discontinued','Matured','Withdrawn from Public')) ORDER BY sectortype_code,secname,companyname,rhdate asc"
+                   Cmd.CommandText = "select * from [jcrvis_Vista].[jcrvis_sa8].[sectVu_CurRating] where  (RatingType = 'Entity') and ratingid not in(Select ratingid from [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where rhdate<(select getDate()-913) OR actiontype in ('withdrawn','Discontinued','Matured','Withdrawn from Public')) ORDER BY sectortype_code,secname,companyname,rhdate asc"
 
                    Dim daret = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    daret.Fill(dsret)
@@ -288,7 +288,7 @@
                    Con.Open()
                    Cmd.Connection = Con
                    'Cmd.CommandText = " select * from [jcrvis_Vista].[dbo].[Vu_CurRating_Home] where  (RatingType IN ('TFC-1', 'TFC-2', 'TFC-3', 'Sukuk 1', 'TFC-4', 'Sukuk 2', 'Sukuk 3', 'Sukuk 4', 'TFC-5')) AND (ActionType <> 'Withdrawn') ORDER BY RHDate DESC"(280)
-                   Cmd.CommandText = "select * from [jcrvis_Vista].[jcrvis_sa8].[sectVu_CurRating] where  (RatingType IN ('TFC-1', 'TFC-2', 'TFC-3', 'Sukuk 1', 'TFC-4', 'Sukuk 2', 'Sukuk 3', 'Sukuk 4', 'TFC-5','Pref Share','PTC 1','PTC 2')) and ltrating not like 'D%' and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
+                   Cmd.CommandText = "select * from [jcrvis_Vista].[jcrvis_sa8].[sectVu_CurRating] where  (RatingType IN ('TFC-1', 'TFC-2', 'TFC-3', 'Sukuk 1', 'TFC-4', 'Sukuk 2', 'Sukuk 3', 'Sukuk 4', 'TFC-5','Pref Share','PTC 1','PTC 2')) and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
                    Dim dains = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    dains.Fill(dsins)
                    Con.Close()
@@ -296,7 +296,7 @@
                    Con.Open()
                    Cmd.Connection = Con
                    'Cmd.CommandText = " select * from [jcrvis_Vista].[dbo].[Vu_CurRating_Home] where  (RatingType IN ('TFC-1', 'TFC-2', 'TFC-3', 'Sukuk 1', 'TFC-4', 'Sukuk 2', 'Sukuk 3', 'Sukuk 4', 'TFC-5')) AND (ActionType <> 'Withdrawn') ORDER BY RHDate DESC"(280)
-                   Cmd.CommandText = " select * from  [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  (RatingType IN ('Management Quality')) and ltrating not like 'D%' and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
+                   Cmd.CommandText = " select * from  [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  (RatingType IN ('Management Quality')) and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
                    Dim damanage = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    damanage.Fill(dsmanage)
                    Con.Close()
@@ -304,7 +304,7 @@
                    Con.Open()
                    Cmd.Connection = Con
                    'Cmd.CommandText = " select * from [jcrvis_Vista].[dbo].[Vu_CurRating_Home] where  (RatingType IN ('TFC-1', 'TFC-2', 'TFC-3', 'Sukuk 1', 'TFC-4', 'Sukuk 2', 'Sukuk 3', 'Sukuk 4', 'TFC-5')) AND (ActionType <> 'Withdrawn') ORDER BY RHDate DESC"(280)
-                   Cmd.CommandText = "select * from  [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  (RatingType IN ('IFS')) and ltrating not like 'D%' and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
+                   Cmd.CommandText = "select * from  [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  (RatingType IN ('IFS')) and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
                    Dim daifs = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    daifs.Fill(dsifs)
                    Con.Close()
@@ -312,7 +312,7 @@
                    Con.Open()
                    Cmd.Connection = Con
                    'Cmd.CommandText = " select * from [jcrvis_Vista].[dbo].[Vu_CurRating_Home] where  (RatingType IN ('TFC-1', 'TFC-2', 'TFC-3', 'Sukuk 1', 'TFC-4', 'Sukuk 2', 'Sukuk 3', 'Sukuk 4', 'TFC-5')) AND (ActionType <> 'Withdrawn') ORDER BY RHDate DESC"(280)
-                   Cmd.CommandText = " select * from  [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  (RatingType IN ('Fund Stability')) and ltrating not like 'D%' and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
+                   Cmd.CommandText = " select * from  [jcrvis_Vista].[jcrvis_sa8].[sectVu_curRating] where  (RatingType IN ('Fund Stability')) and actiontype not in ('withdrawn','Discontinued','Matured','Withdrawn from Public') ORDER BY sectortype_code,secname,companyname asc, rhdate desc"
                    Dim daft = New System.Data.SqlClient.SqlDataAdapter(Cmd)
                    daft.Fill(dsft)
                    Con.Close()
