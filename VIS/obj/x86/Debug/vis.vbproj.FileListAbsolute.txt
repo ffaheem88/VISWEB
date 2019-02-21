@@ -1,0 +1,4 @@
+C:\Users\ffahe\Desktop\jcrvisftp\obj\x86\Debug\vis.vbprojAssemblyReference.cache
+C:\Users\ffahe\Desktop\jcrvisftp\obj\x86\Debug\vis.Global.asax.resources
+C:\Users\ffahe\Desktop\jcrvisftp\obj\x86\Debug\vis.vbproj.GenerateResource.cache
+C:\Users\ffahe\Desktop\jcrvisftp\obj\x86\Debug\vis.vbproj.CoreCompileInputs.cache
