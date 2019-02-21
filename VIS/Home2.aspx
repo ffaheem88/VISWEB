@@ -109,15 +109,22 @@
 
         <div class="slider">
          
-
+          
 
             <div id="slides">
               <div class="slide current-slide" id="slide-5"> 
                   <div class="sliderheading">
                  
                  </div>
+                 
               
               
+               </div>
+              
+               <div class="slide" id="slide-6"> 
+                  <div class="sliderheading">
+                 
+                 </div>
                </div> <!-- #slide-1 -->
                 <div class="slide" id="slide-2">
                 <div class="fhmslide">
@@ -178,6 +185,7 @@
                     <li class="circle"><div></div></li>
                     <li class="circle"><div></div></li>
                      <li class="circle"><div></div></li>
+             <li class="circle"><div></div></li>
              <li class="circle"><div></div></li>
                 </ul>
             </div> <!-- #pagination -->
