@@ -115,6 +115,18 @@
          <div class="boxes-container site-width cf">
             
             <div class="column">
+
+
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                  <strong> Summit Bank Limited</strong>
+                        <p class="date">February, 2019</p>
+                    </div>
+                    <div class="desc"><p>On 1st February 2019, JCR-VIS Credit Rating Company Limited (JCR-VIS) assigned a ‘D’ (Default) rating to the seven year listed TFC issued by Summit Bank Limited (SBL) due to non-payment of its latest markup...</p>
+                    <br>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/201901-SummitBank.pdf" target="_blank">Read More</a></div>
+                </div>
                       <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                    <strong> Quetta Textile Mills Limited</strong>
@@ -165,16 +177,7 @@
 
                <%------------New Box-------------%>
 
-                <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                      <strong>Crescent Standard Investment Bank Ltd.</strong>
-                        <p class="date">July, 2007</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS Credit Rating Co. Ltd. had been rating Crescent Standard Investment Bank Limited till April 2006, when the assigned ratings were suspended due to the fact that in view of disclosures...</p>
-                    <br>
-                    <p></p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/CSIBLComment.pdf" target="_blank">Read More</a></div>
-                </div>
+                
 
                                  
             </div> <!-- .column -->
@@ -194,6 +197,8 @@
                     <p></p></div>
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Investcap-SpecialReport.pdf" target="_blank">Read More</a></div>
                 </div>
+
+                
 
                  <%--...NewBox-----------%>
                 <div class="box box-shadow">
@@ -227,6 +232,17 @@
                     <br>
                     <p></p></div>
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/GharibwalDefaultComment.pdf" target="_blank">Read More</a></div>
+                </div>
+
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                      <strong>Crescent Standard Investment Bank Ltd.</strong>
+                        <p class="date">July, 2007</p>
+                    </div>
+                    <div class="desc"><p>JCR-VIS Credit Rating Co. Ltd. had been rating Crescent Standard Investment Bank Limited till April 2006, when the assigned ratings were suspended due to the fact that in view of disclosures...</p>
+                    <br>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/CSIBLComment.pdf" target="_blank">Read More</a></div>
                 </div>
                 
          </div>  
