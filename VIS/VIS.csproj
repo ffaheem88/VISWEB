@@ -69,7 +69,9 @@
   <ItemGroup>
     <Content Include="13.jpg" />
     <Content Include="About.aspx" />
-    <Content Include="About.aspx.vb" />
+    <Content Include="About.aspx.vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
     <Content Include="about.html" />
     <Content Include="career.aspx" />
     <Content Include="career.aspx.vb" />
@@ -342,6 +344,7 @@
     <Content Include="managerpic\sirkhalid.png" />
     <Content Include="managerpic\Tabish.png" />
     <Content Include="managerpic\talha.png" />
+    <Content Include="managerpic\Tayyaba-e.jpg" />
     <Content Include="managerpic\waqas.png" />
     <Content Include="managerpic\Zaryab.png" />
     <Content Include="newsletter.html" />

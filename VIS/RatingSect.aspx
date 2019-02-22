@@ -863,7 +863,7 @@
 												    %>   <li> &nbsp; | &nbsp; <a  href="history.aspx?viscode=<%=Rdrins("viscode")%> &ratingtype=<%=Rdrins("RatingType") %> ">History</font></a></li>
                                                    
 												    
-												   <% Response.Write("<li>&nbsp; | &nbsp;<a target='_Blank' href='IssueDetail/" & Rdrins("Contract_Code") & ".pdf'> Issue Detail</a></li> ")
+												   <% Response.Write("<li>&nbsp; | &nbsp;<a target='_Blank' href='https://s3.us-west-2.amazonaws.com/backupsqlvis/IssueDetail/" & Rdrins("Contract_Code") & ".pdf'> Issue Detail</a></li> ")
 												   		%>
                                                 </ul>
                                             </td>
@@ -871,10 +871,10 @@
 																			
                                     </tbody> <!-- .row -->
 								<%
-								
-								Next
-								
-								
+
+                                    Next
+
+
 								%>		
         
                                 </table>
