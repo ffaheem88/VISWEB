@@ -79,7 +79,7 @@
                                     <li><a href="kc-meth.aspx">Methodologies</a></li>
                                     <li><a href="kc-sect.aspx">Sector Updates</a></li>
                                      <li><a href="Newsletters.html">Newsletters</a></li>
-                                      <li><a  class="pdf" href="docs/RTCDR2018.pdf">Transitions &amp; Default Studies</a></li>
+                                      <li><a  class="pdf" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RTCDR2018.pdf">Transitions &amp; Default Studies</a></li>
                                       <li><a href="policies-criteria.html">Policies &amp; Criteria</a></li>
                                       <li><a href="de-comment.aspx">Default Comments</a></li>
                    </ul>
@@ -187,11 +187,11 @@
                                             <td colspan="7">
                                                 <ul>
 												<%
-												    Response.Write("<li><a href='prFile.aspx?mRatingId=" & Rdr("RatingId") & "' target='_blank'> Press Release</a></li> ")
-												  
-												    Response.Write("<li>&nbsp; | &nbsp;<a  target='_Blank' target='_Blank' href='RatingReports/OP_" & Rdr("m_RatingCode") & "_000" & Rdr("VisCode") & ".pdf'> Rating Report</a></li> ")
-												    
-											
+                                                    Response.Write("<li><a href='prFile.aspx?mRatingId=" & Rdr("RatingId") & "' target='_blank'> Press Release</a></li> ")
+
+                                                    Response.Write("<li>&nbsp; | &nbsp;<a  target='_Blank' target='_Blank' href='https://s3.us-west-2.amazonaws.com/backupsqlvis/RatingReports/OP_" & Rdr("m_RatingCode") & "_000" & Rdr("VisCode") & ".pdf'> Rating Report</a></li> ")
+
+
 											%>
                                                 </ul>
                                             </td>

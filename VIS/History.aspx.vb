@@ -14,7 +14,7 @@ Partial Class JCRVIS_History
         Dim viscode = Request.QueryString("viscode")
         Dim ratingtype = Request.QueryString("RatingType")
 
-        Con.ConnectionString = "server=visdb.c66yg152cqdw.us-west-2.rds.amazonaws.com;database=jcrvis_Vista;uid=sa;pwd=jcrvis123;"
+        Con.ConnectionString = "Data Source=visdb.c66yg152cqdw.us-west-2.rds.amazonaws.com;Persist Security Info=False;User ID=sa;Initial Catalog=jcrvis_Vista;pwd=jcrvis123"
         Con.open()
         Cmd.Connection = Con
         Cmd.CommandText = "select * from Vu_HisRating where viscode= " + viscode + " and RatingType='" + ratingtype + "'  Order by CatId,RhDate desc,ratingid desc"
