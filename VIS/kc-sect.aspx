@@ -116,6 +116,27 @@
            <br />
            <div class="boxes-cont" >
             <div class="column">
+                <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Rice Industry</strong>
+                     
+                        <p class="date">February, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/rice.png" />
+                        
+               <p>Over the past five years, global rice consumption has increased at a compound annual growth rate (CAGR) of 0.7%. In 2018, global rice consumption increased by 0.6%...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+
+
+
+
+
+
+
+
             <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
                         <strong>Cement Industry</strong>
