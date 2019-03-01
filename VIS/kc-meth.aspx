@@ -505,7 +505,7 @@
 
             <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
-                      <strong>Industrial Corporates</strong>
+                      <strong>Corporates</strong>
                         <p class="date">May, 2016</p>
                     </div>
                     <div class="desc"><p>In order to serve the varying needs of the industrial sector, JCR-VIS issues both entity and debt instrument ratings. Entity ratings reflect the capacity of the company to re-pay its senior unsecured...</p>
