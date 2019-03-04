@@ -180,7 +180,13 @@
                         <p>VIS also provides management services to IIRA in addition to assistance under the technical partnership agreement.</p>
                         <br> 
                         <br> 
-                        <h2>China Chengxin International Credit Rating Company Limited (CCXI) - China</h2>
+
+                       <h2>Japan Credit Rating Agency Limited – Japan</h2>
+                       <br />
+                       <p> In 2001, Japan Credit Rating Agency, Limited (JCRA) and VIS had entered into a Joint Venture Agreement whereby JCRA acquired 15% shareholding in the then company (DCR-VIS Credit Rating Co. Ltd.) which has subsequently been bought back by VISPL in December 2018. JCRA is continuing its collaboration with VIS providing technical support in terms of methodologies and research. JCRA is the leading credit rating agency in Japan and is the only Japanese rating agency that is also officially registered in the US and certified in the EU.</p>
+                        
+                       <br />
+                       <h2>China Chengxin International Credit Rating Company Limited (CCXI) - China</h2>
                         <br>
                         <p>VIS Credit Rating Co. Ltd. (formerly JCR-VIS Credit Rating Co. Ltd.) has entered into an ‘Agreement of Cooperation’ with CCXI which is the largest credit rating agency of Mainland China with over 20,000 ratings outstanding currently. VIS has developed, alongside CCXI, a pioneering product ‘Investment Strength, Governance, Environment & Social’ (ISG-ES) Grading. The product is meant to grade organizations based on long term investibility criterion with emphasis on overall investment financial strength, corporate governance standards established within the organization as well as a flavor of social responsibility and environmental accountability in processes and systems. This grading is especially envisioned to be useful for those organizations seeking long term local/foreign equity investment or those seeking to establish partnerships with companies for business opportunities under CPEC and/or the B&R initiative. Amongst other initiatives, the two companies have also agreed to conduct research and issue joint reports on business sectors in Pakistan and China.</p>
                         <br>
