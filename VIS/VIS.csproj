@@ -160,6 +160,9 @@
     <Content Include="img\arrow.png" />
     <Content Include="img\bank.jpg" />
     <Content Include="img\benefits.png" />
+    <Content Include="img\ccxi.png" />
+    <Content Include="img\ccxi1.png" />
+    <Content Include="img\ccxi2.png" />
     <Content Include="img\chemicals.jpg" />
     <Content Include="img\coins.jpg" />
     <Content Include="img\Dome.jpg" />
@@ -237,6 +240,7 @@
     <Content Include="img\icons\tollroads.png" />
     <Content Include="img\icons\weaving.png" />
     <Content Include="img\InsFinal.png" />
+    <Content Include="img\jcr1.png" />
     <Content Include="img\jcrvis.png" />
     <Content Include="img\Kothari.jpg" />
     <Content Include="img\Kotharinew.jpg" />

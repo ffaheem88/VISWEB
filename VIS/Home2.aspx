@@ -265,8 +265,30 @@
 
 
         </div> <!-- .slider -->
+        
+        <ul class="white-tabs1 color-text site-width">
+            <li id="col1"  style="
+    height: 57px;
+    width: 33.333%;
+    float: left;
+    font-size: 130%;
+  
+    padding: 16px 0 0 0;
+    
+    font-size: 23px;
+    color: #357eb2;
+  
+    text-transform: uppercase;
+"><a>International Collaborations</a></li>
+
+            <li id="col2"><a href="#"><img src="img/ccxi.png" alt="CCXI"  style="height: 57px; float: left;     padding: 0 38px 0 57px;   display: block; width: 388px;"   </a></li>
+
+<li id="col3"><a href="#"><img src="img/jcr1.png" alt="JCR" style="height: 57px; float: left;    display: block; width: 320px;"/></a></li>
+        </ul>
+
 
             <ul class="white-tabs color-text site-width">
+              
             <li class="trust"><a>TRUST</a></li>
             <li><a>TRANSPARENCY</a></li>
             <li><a>INDEPENDENCE</a></li>
