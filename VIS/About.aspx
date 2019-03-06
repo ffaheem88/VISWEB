@@ -100,7 +100,8 @@
 
                                 <td><span><a href="#profile">Company Profile</a></span></td>
                                 <td><span><a href="#shareholders">Shareholders/Promoters</a></span></td>
-                                <td><span><a href="#ventures">Joint Ventures &amp; Collaborations</a></span></td>
+                                <td><span><a href="#ventures">International Joint Ventures </a></span></td>
+                                <td><span><a href="#ven">International Collaborations</a></span></td>
                                 <td><span><a href="#BOD/RC">Directors/Rating Committee</a></span></td>
                                 <td><span><a href="#team">Team</a></span></td>
                                </tr>
@@ -153,8 +154,8 @@
                           individual stock exchanges of Karachi, Lahore and Islamabad. 
                           One of the most rapidly growing emerging market exchanges, PSX is now also part of the MSCI Emerging Markets Index and was among the world's best performing stock market's, between 2009 and 2015.
                         </p>
-                        <br>
-                        <br>
+                        <br/>
+                        <br/>
                         <h2>ISE Towers REIT Management Company Ltd  (ISE)</h2>
                         <br>
                         <p>ISE Towers REIT Management Company Limited (Formerly Islamabad Stock Exchange Limited (ISE)) was incorporated on October 25, 1989 to function as a Stock Exchange. 
@@ -167,7 +168,7 @@
                    </div> <!-- .box -->
                    <div class="box box-shadow">
                       <div class="anchor" id="ventures"></div>
-                       <h1 class="box-title">Joint Ventures &amp; Collaborations</h1>
+                       <h1 class="box-title">International Joint Ventures </h1>
                        <h2>Islamic International Rating Agency (IIRA) - Bahrain</h2>
                        <br>
                        <p>IIRA is the sole rating agency established to provide capital markets and the banking sector in predominantly Islamic countries with a rating spectrum that encompasses the full array of capital instruments and specialty Islamic financial products, and to enhance the level of analytical expertise in those markets.</p>                       
@@ -181,15 +182,8 @@
                         <br> 
                         <br> 
 
-                       <h2>Japan Credit Rating Agency Limited – Japan</h2>
-                       <br />
-                       <p> In 2001, Japan Credit Rating Agency, Limited (JCRA) and VIS had entered into a Joint Venture Agreement whereby JCRA acquired 15% shareholding in the then company (DCR-VIS Credit Rating Co. Ltd.) which has subsequently been bought back by VISPL in December 2018. JCRA is continuing its collaboration with VIS providing technical support in terms of methodologies and research. JCRA is the leading credit rating agency in Japan and is the only Japanese rating agency that is also officially registered in the US and certified in the EU.</p>
-                        
-                       <br />
-                       <h2>China Chengxin International Credit Rating Company Limited (CCXI) - China</h2>
-                        <br>
-                        <p>VIS Credit Rating Co. Ltd. (formerly JCR-VIS Credit Rating Co. Ltd.) has entered into an ‘Agreement of Cooperation’ with CCXI which is the largest credit rating agency of Mainland China with over 20,000 ratings outstanding currently. VIS has developed, alongside CCXI, a pioneering product ‘Investment Strength, Governance, Environment & Social’ (ISG-ES) Grading. The product is meant to grade organizations based on long term investibility criterion with emphasis on overall investment financial strength, corporate governance standards established within the organization as well as a flavor of social responsibility and environmental accountability in processes and systems. This grading is especially envisioned to be useful for those organizations seeking long term local/foreign equity investment or those seeking to establish partnerships with companies for business opportunities under CPEC and/or the B&R initiative. Amongst other initiatives, the two companies have also agreed to conduct research and issue joint reports on business sectors in Pakistan and China.</p>
-                        <br>
+                      
+                     
                         <h2>Credit Rating Information & Services Limited (CRISL) - Bangladesh</h2>
                         <p>CRISL is the first ever joint venture rating agency operating in Bangladesh since 1995. It is a joint venture of RAM Rating Services Berhad of Malaysia, VIS Credit Rating Co. Ltd. (formerly JCR-VIS Credit Rating Co. Ltd.) of Pakistan, few financial institutions and a host of celebrated professionals of Bangladesh. With a license from the Securities Exchange Commission under Credit Rating Companies Rules 1996, CRISL now appears as the flagship organization of Bangladesh.</p>
                         <br>
@@ -200,6 +194,23 @@
                         <p>Borhan, incorporated in 2018, is the first credit rating agency established by the local investors in the Islamic Republic of Iran with joint venture affiliation of VIS Credit Rating Co. Ltd. (formerly JCR-VIS Credit Rating Co. Ltd.). VIS has provided all the required rating technologies to Borhan which has now acquired a ‘Full Service Rating Agency’ license from the Securities & Exchange Organization of Iran. VIS will play a prominent role in the development of credit rating industry in Iran which is one of the leading economies amongst the OIC members.</p>
                             </div> <!-- .box -->
                                                         
+
+
+
+                <div class="box box-shadow">
+                      <div class="anchor" id="ven"></div>
+                       <h1 class="box-title">International Collaborations</h1>
+                      
+                       <h2>Japan Credit Rating Agency Limited – Japan</h2>
+                       <br />
+                       <p> In 2001, Japan Credit Rating Agency, Limited (JCRA) and VIS had entered into a Joint Venture Agreement whereby JCRA acquired 15% shareholding in the then company (DCR-VIS Credit Rating Co. Ltd.) which has subsequently been bought back by VISPL in December 2018. JCRA is continuing its collaboration with VIS providing technical support in terms of methodologies and research. JCRA is the leading credit rating agency in Japan and is the only Japanese rating agency that is also officially registered in the US and certified in the EU.</p>
+                        
+                       <br />
+                       <h2>China Chengxin International Credit Rating Company Limited (CCXI) - China</h2>
+                        <br>
+                        <p>VIS Credit Rating Co. Ltd. (formerly JCR-VIS Credit Rating Co. Ltd.) has entered into an ‘Agreement of Cooperation’ with CCXI which is the largest credit rating agency of Mainland China with over 20,000 ratings outstanding currently. VIS has developed, alongside CCXI, a pioneering product ‘Investment Strength, Governance, Environment & Social’ (ISG-ES) Grading. The product is meant to grade organizations based on long term investibility criterion with emphasis on overall investment financial strength, corporate governance standards established within the organization as well as a flavor of social responsibility and environmental accountability in processes and systems. This grading is especially envisioned to be useful for those organizations seeking long term local/foreign equity investment or those seeking to establish partnerships with companies for business opportunities under CPEC and/or the B&R initiative. Amongst other initiatives, the two companies have also agreed to conduct research and issue joint reports on business sectors in Pakistan and China.</p>
+                             </div>
+
                      <div class="box box-shadow">
                       <div class="anchor" id="BOD/RC"></div>
                       <div class="box-title1">
