@@ -272,7 +272,6 @@
     width: 33.333%;
     float: left;
     font-size: 130%;
-
   
     padding: 20px 0 0 26px;
     
