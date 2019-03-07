@@ -266,7 +266,7 @@
 
         </div> <!-- .slider -->
         
-        <ul class="white-tabs1 color-text site-width">
+        <%--<ul class="white-tabs1 color-text site-width">
             <li id="col1"  style="
     height: 57px;
     width: 33.333%;
@@ -284,7 +284,21 @@
             <li id="col2"><a href="http://www.ccxi.com.cn/" target="_blank"><img src="img/ccxi.png" alt="CCXI"  style="height: 57px; float: left;     padding:0 29px 0 28px;   display: block; width: 388px;"   </a></li>
 
 <li id="col3"><a href="https://www.jcr.co.jp/en/" target="_blank"><img src="img/jcr1.png" alt="JCR" style="height: 57px; float: left;    display: block; width: 320px;"/></a></li>
-        </ul>
+        </ul>--%>
+
+        
+
+        <div class="colla site-width">
+                      <div class="colla1">
+                      <h3>INTERNATIONAL COLLABORATIONS</h3>
+                      </div>
+                      <div class="colla2">
+                      <h3><a href="http://www.ccxi.com.cn/" target="_blank">China Chengxin Credit Rating</a></h3>
+                      </div>
+                           <div class="colla3">
+                      <h3><a href="https://www.jcr.co.jp/en/" target="_blank">Japan Credit Rating Agency</a></h3>
+                      </div>
+                       </div>
 
 
             <ul class="white-tabs color-text site-width">
@@ -861,13 +875,17 @@
 
 
 
-                <div id="row-3" class="site-width cf">
+               <%-- <div id="row-3" class="site-width cf">
                 <div class="box-1 box-shadow">
                 <div class="cover"></div>
                 <div class="title">Rating Process</div>
                 <div class="desc">In order to provide independent evaluations of their credit-worthiness or the credit risk of their debt issue, an entity may choose to have a credit rating assigned to themselves. A step-by-step process is followed to fully assess the issuer’s credit quality and arrive at a rating.<a href="rating-process.html">Read More</a></div>
                 </div> <!-- .box-1 -->
-                <div class="box-2 box-shadow">
+
+
+
+                    <%--NEWS BOX--%>
+                <%--<div class="box-2 box-shadow">
                 <div class="title">News-Box</div>
                 <ul class="desc1">
                   <li ><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Infrastructure Project Financing.pdf" target="_blank">JCR-VIS, in collaboration with IBP, announces 2 days training workshop on “Infrastructure Project Financing”</a></li>
@@ -876,17 +894,17 @@
                 <li style="border-top: 1px solid #d9d9d9;"> <a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/ConceptPresentationPRAF.pdf" target="_blank">JCR-VIS Announces Portfolio Return Assessment Factor</a></li>
                <%-- <li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-GenInsurance201702.pdf" target="_blank">JCR-VIS Updates General Insurance Methodology</a></li>
                --%>
-               <%-- <li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201703.pdf" target="_blank">JCR-VIS Posts Rice Sector Update</a></li>
+                <%--<li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201703.pdf" target="_blank">JCR-VIS Posts Rice Sector Update</a></li>
                 <li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201703.pdf" target="_blank">JCR-VIS Posts Cement Sector Study</a></li>
-                --%>
+                
                 </ul>
-                </div> <!-- .bo <!-- .box-2 -->
+                </div> --%><!-- .bo <!-- .box-2 -->
                 <div class="box-3 box-shadow">
                 <div class="cover"></div>
                 <div class="title">Understanding Ratings</div>
                 <div class="desc">A credit rating is an assessment of the ability and willingness of an entity to fulfill its financial commitments. It is a measure of the credit worthiness of an issuer and can be used by investors to help make investment decisions when comparing different issuers and debt issues.</div>
                 </div> <!-- .box-3 -->
-                </div> 
+                </div> --%>
                 </div>
 
     <div id="footer-container" class="color white-text">
