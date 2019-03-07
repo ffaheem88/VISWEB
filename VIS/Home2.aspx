@@ -894,17 +894,17 @@
                 <li style="border-top: 1px solid #d9d9d9;"> <a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/ConceptPresentationPRAF.pdf" target="_blank">JCR-VIS Announces Portfolio Return Assessment Factor</a></li>
                <%-- <li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-GenInsurance201702.pdf" target="_blank">JCR-VIS Updates General Insurance Methodology</a></li>
                --%>
-                <%--<li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201703.pdf" target="_blank">JCR-VIS Posts Rice Sector Update</a></li>
+               <%-- <li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201703.pdf" target="_blank">JCR-VIS Posts Rice Sector Update</a></li>
                 <li style="border-top: 1px solid #d9d9d9;"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201703.pdf" target="_blank">JCR-VIS Posts Cement Sector Study</a></li>
                 
                 </ul>
-                </div> --%><!-- .bo <!-- .box-2 -->
+                </div> <!-- .bo <!-- .box-2 -->
                 <div class="box-3 box-shadow">
                 <div class="cover"></div>
                 <div class="title">Understanding Ratings</div>
                 <div class="desc">A credit rating is an assessment of the ability and willingness of an entity to fulfill its financial commitments. It is a measure of the credit worthiness of an issuer and can be used by investors to help make investment decisions when comparing different issuers and debt issues.</div>
-                </div> <!-- .box-3 -->
-                </div> --%>
+                </div> <!-- .box-3 -->--%>
+                </div> 
                 </div>
 
     <div id="footer-container" class="color white-text">
