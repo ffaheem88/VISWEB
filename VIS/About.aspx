@@ -352,7 +352,14 @@
                          <br/>
                         <h2>Senior Analyst </h2>
                    <div class="peopleteam">
-                   
+                    <div class="main-wrap2">
+                            <div class="jcr-pic1" style="background-image: url('managerpic/DSC_0186-.jpg');    background-position-x: 30px;   zoom: initial;"> </div>
+                            
+                           <div class="mem-info1">Arsal Ayub<br/>
+                           <span>Senior Manager<br />
+                           <%--<a>arsal.ayub@vis.com.pk</a>--%></span> </div>
+                            
+                            </div>
                     <div class="main-wrap2">
                            <div class="jcr-pic1" style="background-image: url('managerpic/talha.png');    background-position-x: 35px;"></div>
                             
@@ -362,14 +369,7 @@
                              </span>
                              </div>
                              </div>
-                          <%--  <div class="main-wrap2">
-                            <div class="jcr-pic1" style="background-image: url('managerpic/waqas.png');background-position-x: 62px;"> </div>
-                            
-                           <div class="mem-info1">Waqas Munir, FRM<br/>
-                           <span>Senior Manager<br />
-                           <a>waqas.munir@vis.com.pk</a></span> </div>
-                            
-                            </div>--%>
+                         
                             
                          <%--<div class="main-wrap2">
                             <div class="jcr-pic1" style="background-image: url('managerpic/jahanzaib.png');background-position-x: 56px;"></div>
@@ -385,7 +385,7 @@
                         <%-- <a>muniba.khan@vis.com.pk</a>--%>  </span>   
                              </div></div>
                              
-
+                       <br />
                                  
                          <div class="main-wrap2"> 
                             <div class="jcr-pic1" style="background-image: url('managerpic/AbuBakar.jpg'); background-position-x: 26px;background-position-y: 10px;"></div>
@@ -508,7 +508,7 @@
                                 </div>
                                     </div>
                                      <div class="main-wrap1">
-                                        <div class="jcr-mainpic" style="background-image: url('');  background-position-y: 22px;   background-position-x: 4px;" ></div><br />
+                                        <div class="jcr-mainpic" style="background-image: url('managerpic/RAVEENA.jpg');  background-position-y: 10px; background-position-x: 2px;" ></div><br />
                                         <div class="mem-info">Raveena Kumari<br />
                                     <span>Assistant Manager<br />
                          <%--  <a>raveena.kumari@vis.com.pk</a>--%>
