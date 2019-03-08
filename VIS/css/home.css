@@ -343,24 +343,19 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 .colla {
     background: #357eb2;
     color: white;
-    text-transform: uppercase;
-      padding: 15px;
-    line-height: .1em;
-     margin-top: 8px;
+      padding: 5px;
+    font-size:15px;
+     margin-top: 15px;
+     margin-bottom:-5px;
 }
-.colla1 {
-    width: 30%;
-    float: left;
-    padding: 0 0 0 25px;
+
+.colla1:hover {
+    color: pink;
 }
-.colla2 {
-    width: 66%;
-    float: right;
+.colla2:hover {
+    color: pink;
 }
-.colla3 {
-    width: 35%;
-    float: right;
-}
+
 
 
     /*.white-tabs1 li {
