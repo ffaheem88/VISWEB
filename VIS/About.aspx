@@ -431,15 +431,7 @@
                         <h2>Assistant Managers </h2>
 
                                 <div class="peopleteam">
-                              <div class="main-wrap1">
-
-                                        <div class="jcr-mainpic" style="background-image: url('managerpic/AhmadZahid.jpg'); background-position-y: 34px; background-position-x: 4px;" ></div><br />
-                                        <div class="mem-info">Ahmad Zahid<br />
-                                    <span>Assistant Manager<br />
-                               <%--<a>ahmad.zahid@vis.com.pk</a>--%>
-                                  </span>
-                                </div>
-                                    </div>
+                              
                                 <div class="main-wrap1">
                                         <div class="jcr-mainpic" style="background-image: url('managerpic/Asfia.png'); background-position-y: 45px;  background-position-x: 5px;" ></div><br />
                                         <div class="mem-info"> Asfia Aziz <br />
@@ -507,7 +499,12 @@
                                   </span>
                                 </div>
                                     </div>
-                                     <div class="main-wrap1">
+                                     
+
+                                    
+                                         <br />
+
+                                    <div class="main-wrap1">
                                         <div class="jcr-mainpic" style="background-image: url('managerpic/RAVEENA.jpg');  background-position-y: 10px; background-position-x: 2px;" ></div><br />
                                         <div class="mem-info">Raveena Kumari<br />
                                     <span>Assistant Manager<br />
@@ -516,8 +513,7 @@
                                 </div>
                                     </div>
 
-                                    
-                                         <br />
+
 
                                <div class="main-wrap1">
                                         <div class="jcr-mainpic" style="background-image: url('managerpic/Fahim.jpg');  background-position-y: 22px;   background-position-x: 4px;" ></div><br />

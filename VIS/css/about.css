@@ -158,14 +158,14 @@ body {
     
     }
 
-.about-wrapper .content .box h2 {
-       color: #333333;
-    line-height: 1.3em;
-    padding: 11px 25px;
-    font-weight: bolder;
-    font-size: 20px;
-    background: #F3F3F3;
-}
+    .about-wrapper .content .box h2 {
+        color: #333333;
+        line-height: 1.3em;
+        padding: 11px 25px;
+        font-weight: bolder;
+        font-size: 20px;
+        background: #dddddd;
+    }
 
 .about-wrapper .content .box br {
     -webkit-user-select: none;
