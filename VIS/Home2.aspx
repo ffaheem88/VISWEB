@@ -289,15 +289,11 @@
         
 
         <div class="colla site-width">
-                      <div class="colla1">
-                      <h3>INTERNATIONAL COLLABORATIONS</h3>
-                      </div>
-                      <div class="colla2">
-                      <h3><a href="http://www.ccxi.com.cn/" target="_blank">China Chengxin Credit Rating</a></h3>
-                      </div>
-                           <div class="colla3">
-                      <h3><a href="https://www.jcr.co.jp/en/" target="_blank">Japan Credit Rating Agency</a></h3>
-                      </div>
+                      
+                      <p><b>International Collaborations: &nbsp;&nbsp; </b> <a href="https://www.jcr.co.jp/en/" class="colla1" target="_blank"><i> Japan Credit Rating Agency, Ltd</i></a>&nbsp;&nbsp; | <a href="http://www.ccxi.com.cn/" class="colla1" target="_blank">&nbsp;&nbsp;  China Chengxin International Credit Rating Co., Ltd</a> </p>
+                       
+                 
+                           
                        </div>
 
 
