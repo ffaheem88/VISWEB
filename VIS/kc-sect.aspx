@@ -118,6 +118,19 @@
             <div class="column">
                 <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
+                        <strong>Sugar Industry</strong>
+                     
+                        <p class="date">March, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/sugar.png" />
+                        
+               <p>The sugar industry plays a vital role in creating economic activity for farmers as well as manufacturers, providing revenue to different segments of the economy...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/sugar201904.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+                <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
                         <strong>Rice Industry</strong>
                      
                         <p class="date">February, 2019</p>
@@ -137,18 +150,7 @@
 
 
 
-            <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Cement Industry</strong>
-                     
-                        <p class="date">February, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/buildings.png" />
-                        
-               <p>The cement industry in Pakistan is divided into two divisions; namely Southern & Northern regions. In the province of Punjab: Khyber Pakhtunkhwa, Azad Kashmir, Gilgit Baltistan...</p></div>
-                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf"  target="_blank">Read More</a></div>
-                </div>
+            
 
           
 
@@ -169,7 +171,18 @@
                <p>The Flat Steel industry in Pakistan comprises two local producers International Steels Limited (ISL) and Aisha Steel Mills Limited (ASL). Flat steel producers import Hot Rolled Coil (HRC)...</p></div>
                  <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf"  target="_blank">Read More</a></div>
                 </div>
-
+                    <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Cement Industry</strong>
+                     
+                        <p class="date">February, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/buildings.png" />
+                        
+               <p>The cement industry in Pakistan is divided into two divisions; namely Southern & Northern regions. In the province of Punjab: Khyber Pakhtunkhwa, Azad Kashmir, Gilgit Baltistan...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf"  target="_blank">Read More</a></div>
+                </div>
                 </div>
 
                 </div>

@@ -735,16 +735,16 @@
 
                            <div class="sub-tile sub-tile-1">
                           
-                            <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf" target="_blank">
-                                <div class="title">Rice Industry <br/><span>February, 2019</span></div>
+                            <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/sugar201904.pdf" target="_blank">
+                                <div class="title">Sugar Industry <br/><span>March, 2019</span></div>
                             </a>
 
                              </div>
                            <div class="sub-tile sub-tile-2">
-
-                                 <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf" target="_blank">
-                                <div class="title">Cement Industry<br/><span>February, 2019</span></div>
+                                <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf" target="_blank">
+                                <div class="title">Flat Steel <br/><span>February, 2019</span></div>
                             </a>
+                                
 
                                 
                               
@@ -754,11 +754,11 @@
                     </div> <!-- .column -->
                           <div class="column column-2">
                         <div class="sub-tile sub-tile-3">
-
-                         
-                              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf" target="_blank">
-                                <div class="title">Flat Steel <br/><span>February, 2019</span></div>
+                              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf" target="_blank">
+                                <div class="title">Rice Industry <br/><span>February, 2019</span></div>
                             </a>
+                         
+                             
 
 
 
@@ -770,26 +770,10 @@
 
                           </div> <!-- Sub Tile 3 -->
                          <div class="sub-tile sub-tile-4">
-                            
-                                   <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Non-Life Insurance201812.pdf" target="_blank">
-                                <div class="title">Non-Life Insurance <br/><span>December, 2018</span></div>
+                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf" target="_blank">
+                                <div class="title">Cement Industry<br/><span>February, 2019</span></div>
                             </a>
-
-                             
-                             
-                             
-                             
-                       
-
-
-
-
-                           
-                                       
-
-
-
-                           </div> <!-- Sub Tile 4 -->
+                                                       </div> <!-- Sub Tile 4 -->
                         
                       
                     </div> <!-- .column -->
@@ -805,10 +789,10 @@
                     <div class="column column-3">
 
                         <div class="sub-tile sub-tile-5">
-                                 
-                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Auto components201811.pdf" target="_blank">
-                                <div class="title">Auto Components <br/><span>November, 2018</span></div>
+                                  <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Non-Life Insurance201812.pdf" target="_blank">
+                                <div class="title">Non-Life Insurance <br/><span>December, 2018</span></div>
                             </a>
+                             
                             
                            
                             
@@ -820,10 +804,11 @@
                    
                         </div> <!-- Sub Tile 5 -->
                         <div class="sub-tile sub-tile-8">
-                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Textile Weaving201809.pdf" target="_blank">
-                                <div class="title">Textile Weaving<br/><span>September, 2018</span></div>
-                            </a> 
-                           
+
+                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Automobile201811.pdf" target="_blank">
+                                <div class="title">Automobile <br/><span>November, 2018</span></div>
+                            </a>
+                            
                         
                                               
                        
@@ -835,10 +820,10 @@
                     <div class="column column-4">
 
                         <div class="sub-tile sub-tile-7">
-                      
-                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Automobile201811.pdf" target="_blank">
-                                <div class="title">Automobile <br/><span>November, 2018</span></div>
+                      <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Auto components201811.pdf" target="_blank">
+                                <div class="title">Auto Components <br/><span>November, 2018</span></div>
                             </a>
+                            
                           
                             
                             
@@ -856,10 +841,10 @@
                         <div class="sub-tile sub-tile-6">
                             
                             
-                            <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Polyvinyl_Chloride.pdf" target="_blank">
-                                <div class="title">Polyvinyl Chloride (PVC) <br/><span>August, 2018</span></div>
-                            </a>
-                            
+                           <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Textile Weaving201809.pdf" target="_blank">
+                                <div class="title">Textile Weaving<br/><span>September, 2018</span></div>
+                            </a> 
+                           
                             
                            
                               
