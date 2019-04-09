@@ -353,7 +353,7 @@
                         <h2>Senior Analyst </h2>
                    <div class="peopleteam">
                     <div class="main-wrap2">
-                            <div class="jcr-pic1" style="background-image: url('managerpic/DSC_0186-.jpg');    background-position-x: 30px;   zoom: initial;"> </div>
+                            <div class="jcr-pic1" style="background-image: url('managerpic/arsal.jpg');    background-position-x: 30px;   zoom: initial;"> </div>
                             
                            <div class="mem-info1">Arsal Ayub<br/>
                            <span>Senior Manager<br />
@@ -395,7 +395,7 @@
                              </div></div>
 
                              <div class="main-wrap2">
-                            <div class="jcr-pic1" style="background-image: url('managerpic/Jaffri1.jpg'); background-position-x: 26px;background-position-y: 10px;"></div>
+                            <div class="jcr-pic1" style="background-image: url('managerpic/jafry.jpg'); background-position-x: 26px;background-position-y: 10px; zoom:98%;"></div>
                   <div class="mem-info1">Mohsin S.Jaffri<br/>
               <span> Group Head Editorial Services<br />
                                    <%-- <a>mohsin.jaffri@vis.com.pk</a>--%>  </span>     

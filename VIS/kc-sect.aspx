@@ -118,6 +118,18 @@
             <div class="column">
                 <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
+                        <strong>Ethanol Industry</strong>
+                     
+                        <p class="date">March, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/ethanol.png" />
+                        
+               <p>Ethanol is manufactured by use of renewable or bio-based raw material feedstock. Based on the feedstock type, the market is classified into three product segments which...</p></div>
+                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Ethanol042019.pdf"  target="_blank">Read More</a></div>
+                </div>
+                <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
                         <strong>Sugar Industry</strong>
                      
                         <p class="date">March, 2019</p>
