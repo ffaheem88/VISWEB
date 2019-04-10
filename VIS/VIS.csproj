@@ -193,6 +193,7 @@
     <Content Include="img\icons\corpgov.png" />
     <Content Include="img\icons\denim.png" />
     <Content Include="img\icons\edibleoil.png" />
+    <Content Include="img\icons\ethanol.png" />
     <Content Include="img\icons\fertilizer-white.png" />
     <Content Include="img\icons\fertilizer.png" />
     <Content Include="img\icons\fertilizer1.png" />
@@ -315,6 +316,7 @@
     <Content Include="managerpic\AbuBakar.jpg" />
     <Content Include="managerpic\AhmadZahid.jpg" />
     <Content Include="managerpic\alisyed.png" />
+    <Content Include="managerpic\arsal.jpg" />
     <Content Include="managerpic\Asfia.png" />
     <Content Include="managerpic\daniyal.png" />
     <Content Include="managerpic\DSC_0186-.jpg" />
@@ -323,6 +325,7 @@
     <Content Include="managerpic\hamzarizwan.png" />
     <Content Include="managerpic\ibad.png" />
     <Content Include="managerpic\Jaffri1.jpg" />
+    <Content Include="managerpic\jafry.jpg" />
     <Content Include="managerpic\Jahanzaib %282%29.png" />
     <Content Include="managerpic\jahanzaib.png" />
     <Content Include="managerpic\jamal.png" />
