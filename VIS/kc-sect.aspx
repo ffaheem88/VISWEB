@@ -128,6 +128,7 @@
                <p>Ethanol is manufactured by use of renewable or bio-based raw material feedstock. Based on the feedstock type, the market is classified into three product segments which...</p></div>
                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Ethanol042019.pdf"  target="_blank">Read More</a></div>
                 </div>
+
                 <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
                         <strong>Sugar Industry</strong>
@@ -154,23 +155,21 @@
                  <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf"  target="_blank">Read More</a></div>
                 </div>
 
-
-
-
-
-
-
-
-
-            
-
-          
-
-
-
         
                 </div>
                 <div class="column">
+                    <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Brokerage</strong>
+                     
+                        <p class="date">March, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/brokerage.png" />
+                        
+               <p>Brokerage firms play a key role in capital markets by serving as intermediaries through which investors can buy and sell shares on the stock exchange...</p></div>
+                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Broker042019.pdf"  target="_blank">Read More</a></div>
+                </div>
      <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
                         <strong>Flat Steel</strong>
