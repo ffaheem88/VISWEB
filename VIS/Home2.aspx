@@ -112,6 +112,16 @@
           
 
             <div id="slides">
+                <div class="slide current-slide" id="slide-7"> 
+                  <div class="sliderheading1">
+                      
+
+  <a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/EventPRWeb.pdf" target="_blank"><img src="img/Stage01.jpg" alt="stage"/></a>
+                 </div>
+                 
+              
+              
+               </div>
               <div class="slide current-slide" id="slide-5"> 
                   <div class="sliderheading">
                  
@@ -123,7 +133,8 @@
               
                <div class="slide" id="slide-6"> 
                   <div class="sliderheading">
-                 
+               <%--  <h2><a href="http://iirating.com/" target="_blank" >Islamic International Rating Agency, Bahrain</a></h2>
+   --%>
                  </div>
                </div> <!-- #slide-1 -->
                 <div class="slide" id="slide-2">
