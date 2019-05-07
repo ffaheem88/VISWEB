@@ -112,24 +112,25 @@
           
 
             <div id="slides">
-                <div class="slide current-slide" id="slide-7"> 
+               <div class="slide current-slide" id="slide-7">
+                    <a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/EventPRWeb.pdf" target="_blank"> 
                   <div class="sliderheading1">
                       
 
-  <a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/EventPRWeb.pdf" target="_blank"><img src="img/Stage01.jpg" alt="stage"/></a>
+     
                  </div>
                  
-              
+              </a>
               
                </div>
-              <div class="slide current-slide" id="slide-5"> 
+          <!--     <div class="slide current-slide" id="slide-5"> 
                   <div class="sliderheading">
                  
                  </div>
                  
               
               
-               </div>
+               </div>  -->
               
                <div class="slide" id="slide-6"> 
                   <div class="sliderheading">
@@ -193,7 +194,7 @@
             <div id="pagination">
         <ul>
                     <li class="circle current-circle"><div></div></li>
-                    <li class="circle"><div></div></li>
+                <!-- <li class="circle"><div></div></li>--> 
                     <li class="circle"><div></div></li>
                      <li class="circle"><div></div></li>
              <li class="circle"><div></div></li>
@@ -878,14 +879,18 @@
 
 
 
-               <%-- <div id="row-3" class="site-width cf">
-                <div class="box-1 box-shadow">
-                <div class="cover"></div>
-                <div class="title">Rating Process</div>
-                <div class="desc">In order to provide independent evaluations of their credit-worthiness or the credit risk of their debt issue, an entity may choose to have a credit rating assigned to themselves. A step-by-step process is followed to fully assess the issuer’s credit quality and arrive at a rating.<a href="rating-process.html">Read More</a></div>
-                </div> <!-- .box-1 -->
+               <div id="row-3" class="site-width">
+                  
+               <div class="box-1 box-shadow">
+               <h1 class="box-title">Informed Investment Decision Making Along CPEC</h1>
+              
+                <div class="desc"><iframe style="width:100%;height:364px;"  src="https://www.youtube.com/embed/m6iU4s4PCXM" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe></div>
+             </div>
 
-
+                    
+                   
+ </div>
+ <%--
 
                     <%--NEWS BOX--%>
                 <%--<div class="box-2 box-shadow">

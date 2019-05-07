@@ -145,9 +145,8 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
     left: 16%;
 		}
 .slide .sliderheading1 {
-    position: absolute;
-    top: -18%;
-    left: -2%;
+    width:100%;
+    height:100%;
 }
 
     .slide .btn {
@@ -281,9 +280,9 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
     
     }
 #slide-7 {
-    /*background: url(../img/Stage01.jpg) no-repeat;*/
+    background: url(../img/Stage01.jpg) no-repeat;
     background-position: center;
-    background-size: 100% 110%;
+    background-size:cover;
 }
 
 
@@ -790,7 +789,7 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 
 #content-container #row-3 .box-2 .desc1 
 {
-	    padding: 26px 12px 25px 12px;
+	    
 	
 	}
 
@@ -798,19 +797,14 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 {
 	 
      
-    line-height: 2.1em;
-      font-size: 15px;
- -webkit-transition: all 0.1s ease-in-out;
-    transition: all 0.1s ease-in-out;
-    color: #353535;
-    font-weight: normal;
+    
     
   
     	}
     	
     	#content-container #row-3 .box-2 .desc1 a:hover
     	{
-    		    color: #357EB2;
+    	
     		
     		}
     		
@@ -1098,10 +1092,7 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 	margin-top: 30px;
 }
 #row-3 .box-1, #row-3 .box-2, #row-3 .box-3 {
-    background: white;
-    float: left;
-    width: 48%;
-    margin-left: 1%;
+   
 }
 
 #row-3 .box-2, #row-3 .box-3 {
@@ -1416,9 +1407,7 @@ background-color: #f4f4f4;
 }
 
 #content-container #row-3 .box-1 .cover {
-	background: url(../img/benefits.png) no-repeat;
-	background-size: cover;
-    background-position: center;
+	
 }
 
 #content-container #row-3 .cover {
@@ -1426,9 +1415,7 @@ background-color: #f4f4f4;
 }
 
 #content-container #row-3 .box-1 .title {
-    background: url(../img/icons/gears.png) #357EB3 no-repeat;
-    background-position: 20px;
-    background-size: 23px;
+   
 }
 
 #content-container #row-3 .box-2 .cover {

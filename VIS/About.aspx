@@ -111,7 +111,9 @@
                </div>
                                 
             <div class="content">
-                       
+                 <div class="box box-shadow">
+                     
+                    
                    <div class="box box-shadow">
                       <div class="anchor" id="profile"></div>
                        <h1 class="box-title">Company Profile</h1>
@@ -125,7 +127,12 @@
                         <br>
 
                                    </div> <!-- .box -->
-                       
+                        <div class="anchor" id="profile"></div>
+                       <h1 class="box-title">Corporate Video</h1>
+                    
+                          <iframe style="width:100%;height:400px;margin-bottom:-41px;" src="https://www.youtube.com/embed/tax9Z0q6vgo" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe>
+
+                                   </div> <!-- .box -->
                    <div class="box box-shadow">
                       <div class="anchor" id="shareholders"></div>
                        <h1 class="box-title">Shareholders/Promoters</h1>
@@ -356,7 +363,7 @@
                             <div class="jcr-pic1" style="background-image: url('managerpic/arsal.jpg');    background-position-x: 30px;   zoom: initial;"> </div>
                             
                            <div class="mem-info1">Arsal Ayub<br/>
-                           <span>Senior Manager<br />
+                           <span>Senior Manager, CFA<br />
                            <%--<a>arsal.ayub@vis.com.pk</a>--%></span> </div>
                             
                             </div>
