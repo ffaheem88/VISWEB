@@ -280,9 +280,9 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
     
     }
 #slide-7 {
-    background: url(../img/Stage01.jpg) no-repeat;
+    background: url(../img/Stage02.jpg) no-repeat;
     background-position: center;
-    background-size:cover;
+    background-size: cover;
 }
 
 

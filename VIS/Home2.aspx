@@ -884,7 +884,7 @@
                <div class="box-1 box-shadow">
                <h1 class="box-title">Informed Investment Decision Making Along CPEC</h1>
               
-                <div class="desc"><iframe style="width:100%;height:364px;"  src="https://www.youtube.com/embed/m6iU4s4PCXM" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe></div>
+                <div class="desc"><iframe style="width:100%;height:364px;"  src="https://www.youtube.com/embed/JGT48rnS7bk" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe></div>
              </div>
 
                     

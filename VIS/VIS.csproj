@@ -284,6 +284,7 @@
     <Content Include="img\secicon\telecom.png" />
     <Content Include="img\secicon\textile.png" />
     <Content Include="img\Stage01.jpg" />
+    <Content Include="img\Stage02.jpg" />
     <Content Include="img\sugar.jpg" />
     <Content Include="img\VIS-Banner.jpg" />
     <Content Include="img\vischina.jpg" />
@@ -380,7 +381,11 @@
     <Content Include="ratingSect.aspx.vb">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
+    <Content Include="PSXBMR.aspx" />
     <Content Include="RatingSect2.aspx" />
+    <Content Include="PSXBMR.aspx.vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
     <Content Include="RatingSect2.aspx.vb">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
