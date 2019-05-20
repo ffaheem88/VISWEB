@@ -115,7 +115,58 @@
              <p class="date1">Year 2019:</p>
            <br />
            <div class="boxes-cont" >
-            <div class="column">
+            
+                <div class="column">
+                    <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Paperboard</strong>
+                     
+                        <p class="date">May, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/paper.png" />
+                        
+               <p>Paper & Board industry (P&B) is categorized as per weight classification. As per ISO standards, paperboard (sometimes referred as cardboard) is a paper with a grammage above...</p></div>
+                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/paperboard052019.pdf"  target="_blank">Read More</a></div>
+                </div>
+                    <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Brokerage</strong>
+                     
+                        <p class="date">March, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/brokerage.png" />
+                        
+               <p>Brokerage firms play a key role in capital markets by serving as intermediaries through which investors can buy and sell shares on the stock exchange...</p></div>
+                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Broker042019.pdf"  target="_blank">Read More</a></div>
+                </div>
+     <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Flat Steel</strong>
+                     
+                        <p class="date">February, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/steel.png" />
+                        
+               <p>The Flat Steel industry in Pakistan comprises two local producers International Steels Limited (ISL) and Aisha Steel Mills Limited (ASL). Flat steel producers import Hot Rolled Coil (HRC)...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf"  target="_blank">Read More</a></div>
+                </div>
+                    <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Cement Industry</strong>
+                     
+                        <p class="date">February, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/buildings.png" />
+                        
+               <p>The cement industry in Pakistan is divided into two divisions; namely Southern & Northern regions. In the province of Punjab: Khyber Pakhtunkhwa, Azad Kashmir, Gilgit Baltistan...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf"  target="_blank">Read More</a></div>
+                </div>
+                </div>
+               <div class="column">
                 <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
                         <strong>Ethanol Industry</strong>
@@ -157,45 +208,6 @@
 
         
                 </div>
-                <div class="column">
-                    <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Brokerage</strong>
-                     
-                        <p class="date">March, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/brokerage.png" />
-                        
-               <p>Brokerage firms play a key role in capital markets by serving as intermediaries through which investors can buy and sell shares on the stock exchange...</p></div>
-                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Broker042019.pdf"  target="_blank">Read More</a></div>
-                </div>
-     <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Flat Steel</strong>
-                     
-                        <p class="date">February, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/steel.png" />
-                        
-               <p>The Flat Steel industry in Pakistan comprises two local producers International Steels Limited (ISL) and Aisha Steel Mills Limited (ASL). Flat steel producers import Hot Rolled Coil (HRC)...</p></div>
-                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf"  target="_blank">Read More</a></div>
-                </div>
-                    <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Cement Industry</strong>
-                     
-                        <p class="date">February, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/buildings.png" />
-                        
-               <p>The cement industry in Pakistan is divided into two divisions; namely Southern & Northern regions. In the province of Punjab: Khyber Pakhtunkhwa, Azad Kashmir, Gilgit Baltistan...</p></div>
-                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf"  target="_blank">Read More</a></div>
-                </div>
-                </div>
-
                 </div>
 
            <p class="date1">Year 2018:</p>

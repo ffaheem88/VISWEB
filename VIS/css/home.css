@@ -926,45 +926,39 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
     border-right: 3px solid #222222;
 }
 
-#content-container #row-2 .box-1 .sub-tile-1 .icon {
-   background: url(../img/icons/realestate.png) no-repeat; 
- 
-    background-size: 70px;
-    background-position: center;
-    height: 77px;
-}
-#content-container #row-2 .box-1 .sub-tile-2 .icon 
-{
-  
-   background: url(../img/icons/tollroads.png) no-repeat; 
- background-size: 88px;
- background-position: center;
- height: 77px;
-}
+    #content-container #row-2 .box-1 .sub-tile-1 .icon {
+        background: url(../img/icons/induscrop.png) no-repeat;
+        background-size: 240px;
+        background-position: center;
+        height: 77px;
+    }
+    #content-container #row-2 .box-1 .sub-tile-2 .icon {
+        background: url(../img/icons/realestate.png) no-repeat;
+       
+        background-size: 88px;
+        background-position: center;
+        height: 77px;
+    }
 
 #content-container #row-2 .box-1 .sub-tile-3
  {
     border-right: 3px solid #222222;
 }
 
-#content-container #row-2 .box-1 .sub-tile-3 .icon 
+    #content-container #row-2 .box-1 .sub-tile-3 .icon {
+        background: url(../img/icons/tollroads.png) no-repeat;
+     
+        background-size: 75px;
+        background-position: center;
+        height: 77px;
+    }
 
-{ 
-    background: url(../img/icons/blr.png) no-repeat;  
-
-    background-size: 75px;
-    background-position: center;
-    height: 77px;
-}
-
-#content-container #row-2 .box-1 .sub-tile-4 .icon 
-{ 
-	
-   background: url(../img/icons/star.png) no-repeat;
-    background-size: 76px;
-    background-position: center;
-    height: 77px;
-}
+    #content-container #row-2 .box-1 .sub-tile-4 .icon {
+        background: url(../img/icons/blr.png) no-repeat;
+        background-size: 76px;
+        background-position: center;
+        height: 77px;
+    }
 
 #content-container #row-2 .box-1 .sub-tile a .title span {
     font-weight: lighter;
@@ -1352,56 +1346,56 @@ background-color: #f4f4f4;
 }
 
 #content-container #row-2 .box-2 .sub-tile-1 a .title {
-    background: url(../img/icons/brokerage.png) no-repeat;
+    background: url(../img/icons/paper.png) no-repeat;
     background-size: 60px;
     background-position: 27px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-2 a .title {
-    background: url(../img/icons/sugar.png) no-repeat;
    
+    background: url(../img/icons/ethanol.png) no-repeat;
     background-size: 49px;
     background-position: 22px;
     background-position-y: 12px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-3 a .title {
-    background: url(../img/icons/ethanol.png) no-repeat;
- 
+    background: url(../img/icons/brokerage.png) no-repeat;
+   
     background-size: 53px;
     background-position: 30px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-4 a .title {
+    background: url(../img/icons/sugar.png) no-repeat;
    
-    background: url(../img/icons/rice.png) no-repeat;
     background-size: 50px;
     background-position: 32px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-5 a .title {
-   
-    background: url(../img/secicon/steel.png) no-repeat;
+    background: url(../img/icons/rice.png) no-repeat;
+  
     background-size: 62px;
     background-position: 34px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-6 a .title {
-    background: url(../img/icons/insurance2.png) no-repeat;
- 
+    background: url(../img/icons/autoparts.png) no-repeat;
     background-size: 54px;
     background-position: 24px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-7 a .title {
+    background: url(../img/secicon/steel.png) no-repeat;
    
-    background: url(../img/icons/buildings.png) no-repeat;
     background-size: 64px;
     background-position: 25px;
 }
 
 #content-container #row-2 .box-2 .sub-tile-8 a .title {
-    background: url(../img/icons/autoparts.png) no-repeat;
+    background: url(../img/icons/buildings.png) no-repeat;
+   
     background-size: 65px;
     background-position: 20px;
 }

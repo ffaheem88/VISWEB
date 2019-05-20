@@ -112,15 +112,20 @@
             
             <div class="column">
 
-            <div class="box box-shadow">
+
+                 <div class="box box-shadow">
 
                             <div class="title cf" style="font-weight: normal">
-                            <strong>REIT Management Company</strong>
-                            <p class="date">December, 2018</p>
+                            <strong>Corporates</strong>
+                            <p class="date">May, 2019</p>
                             </div>
-                            <div class="desc"><p>JCR-VIS Credit Rating Company Limited’s definition of Management Quality (MQ) Ratings consistently applies across various types of investments, including the category... </p></div>
-                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/REIT management company.pdf"  target="_blank">Read More</a></div>
+                            <div class="desc"><p>Credit ratings inculcate transparency and invite investor confidence as they are a third party opinion on the credibility and financial strength of institutions signifying ability... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Corporate-Methodology-201904.pdf"  target="_blank">Read More</a></div>
                             </div>
+
+
+
+            
 
 
 
@@ -365,6 +370,17 @@
             <div class="column">
             <%--................newbox...............--%>
            
+                <div class="box box-shadow">
+
+                            <div class="title cf" style="font-weight: normal">
+                            <strong>REIT Management Company</strong>
+                            <p class="date">December, 2018</p>
+                            </div>
+                            <div class="desc"><p>JCR-VIS Credit Rating Company Limited’s definition of Management Quality (MQ) Ratings consistently applies across various types of investments, including the category... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/REIT management company.pdf"  target="_blank">Read More</a></div>
+                            </div>
+
+
               <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                 <strong>Toll Roads </strong>

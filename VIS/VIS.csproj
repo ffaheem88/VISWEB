@@ -220,6 +220,7 @@
     <Content Include="img\icons\OilGas.png" />
     <Content Include="img\icons\omcs.png" />
     <Content Include="img\icons\omcs1.png" />
+    <Content Include="img\icons\paper.png" />
     <Content Include="img\icons\pdf.png" />
     <Content Include="img\icons\pharma.png" />
     <Content Include="img\icons\plane.png" />

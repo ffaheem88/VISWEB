@@ -236,7 +236,7 @@
                          <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Abdul Hussein Tejany (Chairman BOD)</p>
                          <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Faheem Ahmad</p>
                         <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Faryal Ahmad Faheem</p>
-                        <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Farzeen Ali Allawala</p>
+                        <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Muhammad Ashraf Bawany</p>
                       <%--  <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Haroon Askari</p>--%>
                         <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Sabeen Saleem</p>
                          <p><font color="#ff0000" size=" 5px"><b>»</b></font>&nbsp; Saeed Khan</p>
