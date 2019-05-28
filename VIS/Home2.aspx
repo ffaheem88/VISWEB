@@ -112,7 +112,15 @@
           
 
             <div id="slides">
-               <div class="slide current-slide" id="slide-7">
+<div class="slide  current-slide" id="slide-8"> 
+                  <div class="sliderheading">
+                     
+               <iframe style="height: 405px;width: 1268px;" src="https://www.youtube.com/embed/tax9Z0q6vgo" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe>
+                    
+                 </div>
+               </div>
+
+               <div class="slide" id="slide-7">
                     <a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/EventPRWeb.pdf" target="_blank"> 
                   <div class="sliderheading1">
                       
@@ -123,14 +131,7 @@
               </a>
               
                </div>
-          <!--     <div class="slide current-slide" id="slide-5"> 
-                  <div class="sliderheading">
-                 
-                 </div>
-                 
-              
-              
-               </div>  -->
+       
               
                <div class="slide" id="slide-6"> 
                   <div class="sliderheading">
@@ -197,6 +198,8 @@
                 <!-- <li class="circle"><div></div></li>--> 
                     <li class="circle"><div></div></li>
                      <li class="circle"><div></div></li>
+             <li class="circle"><div></div></li>
+             <li class="circle"><div></div></li>
              <li class="circle"><div></div></li>
              <li class="circle"><div></div></li>
                 </ul>

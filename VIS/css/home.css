@@ -271,14 +271,11 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
     background-position-y: -172px;
 }
 
-#slide-5
-{
-       background: url(../img/jcrvis.png) no-repeat;
-    background-position: center;
-   
-    
-    
-    }
+#slide-8 {
+    margin: -226px 0px 0px -203px;
+    height: 319px;
+    position: absolute;
+}
 #slide-7 {
     background: url(../img/Stage02.jpg) no-repeat;
     background-position: center;

@@ -111,7 +111,7 @@
                </div>
                                 
             <div class="content">
-                 <div class="box box-shadow">
+                <%-- <div class="box box-shadow">--%>
                      
                     
                    <div class="box box-shadow">
@@ -124,15 +124,15 @@
 
                         <p>Previously in 2001, Japan Credit Rating Agency, Japan (JCRA) and VIS had entered into a Joint Venture Agreement whereby JCRA acquired 15% shareholding in the then company (DCR-VIS Credit Rating Co. Ltd.) which has subsequently been bought back by VIS in December 2018. DCR-VIS Credit Rating Co. Ltd. was incorporated in 1997 as a joint venture between VIS, Karachi Stock Exchange Guarantee Limited (KSE), Islamabad Stock Exchange Limited (ISE) and Duff & Phelps Credit Rating Co., USA (DCR). Subsequent to DCR’s merger with Fitch IBCA, DCR sold its interests in DCR-VIS to VIS in 2001.</p>
                         
-                        <br>
+                       
 
                                    </div> <!-- .box -->
-                        <div class="anchor" id="profile"></div>
-                       <h1 class="box-title">Corporate Video</h1>
+                       <%-- <div class="anchor" id="profile"></div>--%>
+                      <%-- <h1 class="box-title">Corporate Video</h1>
                     
-                          <iframe style="width:100%;height:400px;margin-bottom:-41px;" src="https://www.youtube.com/embed/tax9Z0q6vgo" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe>
+                          <iframe style="width:100%;height:400px;margin-bottom:-41px;" src="https://www.youtube.com/embed/tax9Z0q6vgo" frameborder="0" allow="accelerometer; gyroscope;" allowfullscreen></iframe>--%>
 
-                                   </div> <!-- .box -->
+                                  <%-- </div>--%> <!-- .box -->
                    <div class="box box-shadow">
                       <div class="anchor" id="shareholders"></div>
                        <h1 class="box-title">Shareholders/Promoters</h1>
