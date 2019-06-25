@@ -924,15 +924,14 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 }
 
     #content-container #row-2 .box-1 .sub-tile-1 .icon {
-        background: url(../img/icons/induscrop.png) no-repeat;
-        background-size: 240px;
+        background: url(../img/icons/li.png) no-repeat;
+        background-size: 67px;
         background-position: center;
         height: 77px;
     }
     #content-container #row-2 .box-1 .sub-tile-2 .icon {
-        background: url(../img/icons/realestate.png) no-repeat;
-       
-        background-size: 88px;
+        background: url(../img/icons/induscrop.png) no-repeat;
+        background-size: 255px;
         background-position: center;
         height: 77px;
     }
@@ -943,16 +942,16 @@ text-shadow: 5px 4px 2px rgba(0,0,0,0.5);
 }
 
     #content-container #row-2 .box-1 .sub-tile-3 .icon {
-        background: url(../img/icons/tollroads.png) no-repeat;
-     
-        background-size: 75px;
+       
+        background: url(../img/icons/realestate.png) no-repeat;
+        background-size: 83px;
         background-position: center;
         height: 77px;
     }
 
     #content-container #row-2 .box-1 .sub-tile-4 .icon {
-        background: url(../img/icons/blr.png) no-repeat;
-        background-size: 76px;
+        background: url(../img/icons/tollroads.png) no-repeat;
+        background-size: 88px;
         background-position: center;
         height: 77px;
     }

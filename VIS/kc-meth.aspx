@@ -109,7 +109,270 @@
             </ul>
         </div>
          <div class="boxes-container site-width cf">
+            <div class="column">
+            <%--................newbox...............--%>
+          <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Takaful Companies </strong>
+                        <p class="date"> June, 2019</p>
+                    </div>
+                    <div class="desc"><p>The development of Takaful is considered to be vital to the proliferation of Islamic modes of insurance, especially since it is regarded as a viable alternative to conventional insurance...</p>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/MethTakaful201906.pdf"  target="_blank">Read More</a></div>
+                </div>
+                <div class="box box-shadow">
+
+                            <div class="title cf" style="font-weight: normal">
+                            <strong>REIT Management Company</strong>
+                            <p class="date">December, 2018</p>
+                            </div>
+                            <div class="desc"><p>JCR-VIS Credit Rating Company Limited’s definition of Management Quality (MQ) Ratings consistently applies across various types of investments, including the category... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/REIT management company.pdf"  target="_blank">Read More</a></div>
+                            </div>
+
+
+              <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Toll Roads </strong>
+                        <p class="date">November, 2018</p>
+                    </div>
+                    <div class="desc"><p>The ‘Toll Roads Rating’ methodology encompasses the financial strength and debt servicing ability of a company / Special Purpose Vehicle (SPV) that generates revenue through toll road operations...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Toll roads112018.pdf"  target="_blank">Read More</a></div>
+                </div>
+            <div class="box box-shadow">
+
+                            <div class="title cf" style="font-weight: normal">
+                            <strong>Bank Loan</strong>
+                            <p class="date">November, 2018</p>
+                            </div>
+                            <div class="desc"><p>Similar to instrument ratings by JCR-VIS, a Bank Loan Rating (BLR) indicates the degree of risk regarding timely payment of the interest and principal or commitments being rated... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/BLR112018.pdf"  target="_blank">Read More</a></div>
+                            </div>
+          
+          
+          
+          
+          
+          
             
+               <div class="box box-shadow">
+
+                            <div class="title cf" style="font-weight: normal">
+                            <strong>Fund Stability</strong>
+                            <p class="date">September, 2018</p>
+                            </div>
+                            <div class="desc"><p>Fund Stability Ratings (FSRs) measure the sensitivity of a fund’s Net Asset Value (NAV) and total return to changing market conditions, with particular emphasis on downside risk... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Fund stability Rating092018.pdf"  target="_blank">Read More</a></div>
+                            </div>
+
+
+
+                           <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong> Commercial Banks  </strong>
+                        <p class="date"> March, 2018</p>
+                    </div>
+                    <div class="desc"><p>JCR-VIS’s rating methodology for commercial banks is composed of three broad analytical frameworks. The assessment begins with system-wide external factors that may impact risk profile of commercial banks...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-CommercialBanks201803.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+
+        
+                
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Life Takaful </strong>
+                        <p class="date">February, 2018</p>
+                    </div>
+                    <div class="desc"><p>The primary objective of ratings n the life insurance sector s to provide n independent assessment of the company ’s ability to pay promised benefits in addition to maintaining... </p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/LifeTakaful 201802.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+                
+                
+
+                                        
+               
+
+              <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Telecommunication</strong>
+                        <p class="date">October, 2017</p>
+                    </div>
+                    <div class="desc"><p>Corporate methodology of JCR-VIS Credit Rating Company Limited (JCR-VIS) is applicable to telecommunication companies. For instance, our analysis for ratings in this sector covers factors...</p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Telecom Meth  201710.pdf"  target="_blank">Read More</a></div>
+                </div>
+                            
+
+            <div class="box box-shadow">
+
+
+
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Real Estate Developers </strong>
+                        <p class="date">August, 2017</p>
+                    </div>
+                    <div class="desc"><p>The construction industry plays a very important role in the economic development of any country. In fact, the performance of this industry is one of the key indicators used in many developed countries to monitor...          <br>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RealEstate Methodology 201708.pdf"  target="_blank">Read More</a></div>
+                </div>
+                          <div class="box box-shadow">
+                                  <div class="title cf" style="font-weight: normal">
+                <strong>Linkage between Parent & Subsidiary Companies</strong>
+                        <p class="date">June, 2017</p>
+                    </div>
+                    <div class="desc"><p>JCR-VIS Credit Rating Company Limited (JCR-VIS)'s approach to rating subsidiaries is a bottom up approach. This starts with assigning a stand-alone rating to the parent and subsidiary...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Linkages201706.pdf"  target="_blank">Read More</a></div>
+                </div>
+           
+           <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Lodging Industry  </strong>
+                        <p class="date">July, 2017</p>
+                    </div>
+                    <div class="desc"><p>The two major factors affecting the lodging industry are leisure and business travel. The former is dependent on the country’s tourism industry and its dynamics, whereas the latter has obvious correlation...</p>
+                  </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Hotel Lodging Industry 201707.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+                   <%--<div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Takaful Companies </strong>
+                        <p class="date"> December, 2016</p>
+                    </div>
+                    <div class="desc"><p>Akin to conventional insurance, an Insurer Financial Strength (IFS) rating is an assessment of a company’s capacity to meet its contractual obligations that mainly constitute claims on insurance policies...</p>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/MethTakaful201612.pdf"  target="_blank">Read More</a></div>
+                </div>--%>
+                
+            <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Oil & Gas Industry</strong>
+                        <p class="date">November, 2016</p>
+                    </div>
+                    <div class="desc"><p>He rating methodology for the oil and gas sector is similar in approach followed for rating industrial concerns outlined in our publication ‘Industrial Corporates ’ in May 2016...</p>
+                  
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-OilGas201611.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+            <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                      <strong>Notching The Issues</strong>
+                        <p class="date">June, 2016</p>
+                    </div>
+                    <div class="desc"><p>The issue specific rating takes into account the relative priority of claim of a particular class of debt vis-à-vis the other outstanding obligations of that particular entity. This means that issue specific rating takes...</p>
+                    </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/criteria_instrument_16.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+            <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                      <strong> Corporates</strong>
+                        <p class="date">May, 2016</p>
+                    </div>
+                    <div class="desc"><p>In order to serve the varying needs of the industrial sector, JCR-VIS issues both entity and debt instrument ratings. Entity ratings reflect the capacity of the company to re-pay its senior unsecured...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Corporate-Methodology-201605.pdf"  target="_blank">Read More</a></div>
+                </div>
+                 
+
+
+                 
+
+                           <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                    <strong>Capital Protected Funds</strong>
+                        <p class="date">August, 2015</p>
+                    </div>
+                    <div class="desc"><p>Capital protected investment strategies guarantee the protection of invested capital at the end of a pre-specified time period, by way of the structure of the fund; the guarantee does not apply...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/CPPIMeth2015.pdf"  target="_blank">Read More</a></div>
+                </div>
+                  <!-- .box -->
+
+                                  <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                        <strong>Real Estate Investment Trusts (REITs)</strong>
+                        <p class="date">May, 2015</p>
+                    </div>
+                    <div class="desc"><p>JCR-VIS Credit Rating Company Limited (JCR-VIS) has addressed the unique risk factors applicable to the evaluation of Rental REIT Schemes in this methodology paper...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RentalREITs-Mehtodology2015.pdf"  target="_blank">Read More</a></div>
+                </div>
+                    
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                       <strong>Governing Linkages Between Parent And Subsidiary</strong>
+                        <p class="date">January, 2015</p>
+                    </div>
+                    <div class="desc"><p>JCR-VIS Credit Rating Company Limited (JCR-VIS)'s approach to rating subsidiaries is a bottom up approach. This starts with assigning a stand-alone rating to the parent and subsidiary...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/criteria_parent.pdf"  target="_blank">Read More</a></div>
+                </div> <!-- .box -->
+                
+                  <%--<div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                    <strong> Explaining The Stars</strong>
+                        <p class="date">December, 2013</p>
+                    </div>
+                    <div class="desc"><p>JCR-VIS’ introduction of “Star Rankings” in the Pakistan market in 2004 paved the way for meaningful analysis of performance of mutual funds. The Star Rankings are based on a pure...</p>
+                    </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/ExplainingtheStars.pdf"  target="_blank">Read More</a></div>
+                </div>--%>
+                   <!-- .box -->
+
+
+                   <%--<div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                        <strong> Bank Loan Ratings </strong>
+                        <p class="date">December, 2011</p>
+                    </div>
+                    <div class="desc"><p>Bank Loan Ratings (BLRs) are aimed at enhancing the liquidity and transparency of the bank loan market. BLRs incorporate the underlying credit risk of the borrower and the support provided...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/BankLoanRatings.pdf"  target="_blank">Read More</a></div>
+                </div>--%>
+
+                      
+            
+
+
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                       <strong>Public Finance Rating</strong>
+                        <p class="date">October, 2009</p>
+                    </div>
+                    <div class="desc"><p>Public finance – the collection, allocation and expenditure of public resources – is one of the defining functions of a state. A distinguishing feature of the developed world has been the extensive...</p>
+                  </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/PublicFinance-200910.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+
+
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                    <strong>Unsolicited  Report </strong> 
+                        <p class="date">June, 2003</p>
+                    </div>
+                    <div class="desc"><p>An unsolicited rating is assigned to entities, where the management has not requested a rating, however, agrees to provide informational support  An un so lic ited rat ing is shown with a 'p'...</p>
+                   </div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/unsolic.pdf"  target="_blank">Read More</a></div>
+                </div>
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                       <strong>Educational Institutions</strong>
+                        <p class="date">June, 2002</p>
+                    </div>
+                    <div class="desc"><p>Rating Methodology: Educational institutions fall into the service sector, and thus their rating is based upon their own peculiar parameters.along with the quantitative factors,qualitative factors...</p>
+</div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/school.pdf" >Read More</a></div>
+                </div> 
+                                        
+                            
+          </div>
             <div class="column">
 
 
@@ -122,11 +385,6 @@
                             <div class="desc"><p>Credit ratings inculcate transparency and invite investor confidence as they are a third party opinion on the credibility and financial strength of institutions signifying ability... </p></div>
                             <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Corporate-Methodology-201904.pdf"  target="_blank">Read More</a></div>
                             </div>
-
-
-
-            
-
 
 
             <div class="box box-shadow">
@@ -181,8 +439,6 @@
                 </div>
 
              
-                    
-                                    
             <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                 <strong>Corporate Governance Ratings </strong>
@@ -211,7 +467,7 @@
                 <strong>SME Rating Methodology</strong>
                         <p class="date">June, 2017</p>
                     </div>
-                    <div class="desc"><p><br />JCR-VIS has developed the methodology for SMEs keeping in view the market demand for reliable independent credit opinions in the SME sector also...</p>
+                    <div class="desc"><p>JCR-VIS has developed the methodology for SMEs keeping in view the market demand for reliable independent credit opinions in the SME sector also...</p>
                     </div>
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/SME Mehtodology-201706.pdf"  target="_blank">Read More</a></div>
                 </div>
@@ -367,301 +623,7 @@
                                          </div> <!-- .column -->
         <%--************RightSide*************--%>     
        
-            <div class="column">
-            <%--................newbox...............--%>
-           
-                <div class="box box-shadow">
-
-                            <div class="title cf" style="font-weight: normal">
-                            <strong>REIT Management Company</strong>
-                            <p class="date">December, 2018</p>
-                            </div>
-                            <div class="desc"><p>JCR-VIS Credit Rating Company Limited’s definition of Management Quality (MQ) Ratings consistently applies across various types of investments, including the category... </p></div>
-                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/REIT management company.pdf"  target="_blank">Read More</a></div>
-                            </div>
-
-
-              <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Toll Roads </strong>
-                        <p class="date">November, 2018</p>
-                    </div>
-                    <div class="desc"><p>The ‘Toll Roads Rating’ methodology encompasses the financial strength and debt servicing ability of a company / Special Purpose Vehicle (SPV) that generates revenue through toll road operations...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Toll roads112018.pdf"  target="_blank">Read More</a></div>
-                </div>
-            <div class="box box-shadow">
-
-                            <div class="title cf" style="font-weight: normal">
-                            <strong>Bank Loan</strong>
-                            <p class="date">November, 2018</p>
-                            </div>
-                            <div class="desc"><p>Similar to instrument ratings by JCR-VIS, a Bank Loan Rating (BLR) indicates the degree of risk regarding timely payment of the interest and principal or commitments being rated... </p></div>
-                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/BLR112018.pdf"  target="_blank">Read More</a></div>
-                            </div>
-          
-          
-          
-          
-          
-          
-            
-               <div class="box box-shadow">
-
-                            <div class="title cf" style="font-weight: normal">
-                            <strong>Fund Stability</strong>
-                            <p class="date">September, 2018</p>
-                            </div>
-                            <div class="desc"><p>Fund Stability Ratings (FSRs) measure the sensitivity of a fund’s Net Asset Value (NAV) and total return to changing market conditions, with particular emphasis on downside risk... </p></div>
-                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Fund stability Rating092018.pdf"  target="_blank">Read More</a></div>
-                            </div>
-
-
-
-                           <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong> Commercial Banks  </strong>
-                        <p class="date"> March, 2018</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS’s rating methodology for commercial banks is composed of three broad analytical frameworks. The assessment begins with system-wide external factors that may impact risk profile of commercial banks...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-CommercialBanks201803.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-
-        
-                
-                <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Life Takaful </strong>
-                        <p class="date">February, 2018</p>
-                    </div>
-                    <div class="desc"><p>The primary objective of ratings n the life insurance sector s to provide n independent assessment of the company ’s ability to pay promised benefits in addition to maintaining... </p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/LifeTakaful 201802.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-                
-                
-
-                                        
-               
-
-              <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Telecommunication</strong>
-                        <p class="date">October, 2017</p>
-                    </div>
-                    <div class="desc"><p>Corporate methodology of JCR-VIS Credit Rating Company Limited (JCR-VIS) is applicable to telecommunication companies. For instance, our analysis for ratings in this sector covers factors...</p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Telecom Meth  201710.pdf"  target="_blank">Read More</a></div>
-                </div>
-                            
-
-            <div class="box box-shadow">
-
-
-
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Real Estate Developers </strong>
-                        <p class="date">August, 2017</p>
-                    </div>
-                    <div class="desc"><p>The construction industry plays a very important role in the economic development of any country. In fact, the performance of this industry is one of the key indicators used in many developed countries to monitor...          <br>
-                    <p></p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RealEstate Methodology 201708.pdf"  target="_blank">Read More</a></div>
-                </div>
-                          <div class="box box-shadow">
-                                  <div class="title cf" style="font-weight: normal">
-                <strong>Linkage between Parent & Subsidiary Companies</strong>
-                        <p class="date">June, 2017</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS Credit Rating Company Limited (JCR-VIS)'s approach to rating subsidiaries is a bottom up approach. This starts with assigning a stand-alone rating to the parent and subsidiary...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Linkages201706.pdf"  target="_blank">Read More</a></div>
-                </div>
-           
-           <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Lodging Industry  </strong>
-                        <p class="date">July, 2017</p>
-                    </div>
-                    <div class="desc"><p>The two major factors affecting the lodging industry are leisure and business travel. The former is dependent on the country’s tourism industry and its dynamics, whereas the latter has obvious correlation...</p>
-                  </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Hotel Lodging Industry 201707.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-                   <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Takaful Companies </strong>
-                        <p class="date"> December, 2016</p>
-                    </div>
-                    <div class="desc"><p>Akin to conventional insurance, an Insurer Financial Strength (IFS) rating is an assessment of a company’s capacity to meet its contractual obligations that mainly constitute claims on insurance policies...</p>
-                    <p></p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/MethTakaful201612.pdf"  target="_blank">Read More</a></div>
-                </div>
-                
-            <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Oil & Gas Industry</strong>
-                        <p class="date">November, 2016</p>
-                    </div>
-                    <div class="desc"><p>He rating methodology for the oil and gas sector is similar in approach followed for rating industrial concerns outlined in our publication ‘Industrial Corporates ’ in May 2016...</p>
-                  
-                    <p></p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-OilGas201611.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-            <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                      <strong>Notching The Issues</strong>
-                        <p class="date">June, 2016</p>
-                    </div>
-                    <div class="desc"><p>The issue specific rating takes into account the relative priority of claim of a particular class of debt vis-à-vis the other outstanding obligations of that particular entity. This means that issue specific rating takes...</p>
-                    </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/criteria_instrument_16.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-            <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                      <strong> Corporates</strong>
-                        <p class="date">May, 2016</p>
-                    </div>
-                    <div class="desc"><p>In order to serve the varying needs of the industrial sector, JCR-VIS issues both entity and debt instrument ratings. Entity ratings reflect the capacity of the company to re-pay its senior unsecured...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Corporate-Methodology-201605.pdf"  target="_blank">Read More</a></div>
-                </div>
-                 
-
-
-                 
-
-                           <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                    <strong>Capital Protected Funds</strong>
-                        <p class="date">August, 2015</p>
-                    </div>
-                    <div class="desc"><p>Capital protected investment strategies guarantee the protection of invested capital at the end of a pre-specified time period, by way of the structure of the fund; the guarantee does not apply...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/CPPIMeth2015.pdf"  target="_blank">Read More</a></div>
-                </div>
-                  <!-- .box -->
-
-                                  <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                        <strong>Real Estate Investment Trusts (REITs)</strong>
-                        <p class="date">May, 2015</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS Credit Rating Company Limited (JCR-VIS) has addressed the unique risk factors applicable to the evaluation of Rental REIT Schemes in this methodology paper...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RentalREITs-Mehtodology2015.pdf"  target="_blank">Read More</a></div>
-                </div>
-                    
-                <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                       <strong>Governing Linkages Between Parent And Subsidiary</strong>
-                        <p class="date">January, 2015</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS Credit Rating Company Limited (JCR-VIS)'s approach to rating subsidiaries is a bottom up approach. This starts with assigning a stand-alone rating to the parent and subsidiary...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/criteria_parent.pdf"  target="_blank">Read More</a></div>
-                </div> <!-- .box -->
-                
-                  <%--<div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                    <strong> Explaining The Stars</strong>
-                        <p class="date">December, 2013</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS’ introduction of “Star Rankings” in the Pakistan market in 2004 paved the way for meaningful analysis of performance of mutual funds. The Star Rankings are based on a pure...</p>
-                    </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/ExplainingtheStars.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
-                   <!-- .box -->
-
-
-                   <%--<div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                        <strong> Bank Loan Ratings </strong>
-                        <p class="date">December, 2011</p>
-                    </div>
-                    <div class="desc"><p>Bank Loan Ratings (BLRs) are aimed at enhancing the liquidity and transparency of the bank loan market. BLRs incorporate the underlying credit risk of the borrower and the support provided...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/BankLoanRatings.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
-
-                      
-            
-
-
-                <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                       <strong>Public Finance Rating</strong>
-                        <p class="date">October, 2009</p>
-                    </div>
-                    <div class="desc"><p>Public finance – the collection, allocation and expenditure of public resources – is one of the defining functions of a state. A distinguishing feature of the developed world has been the extensive...</p>
-                  </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/PublicFinance-200910.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-
-
-                <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                    <strong>Unsolicited  Report </strong> 
-                        <p class="date">June, 2003</p>
-                    </div>
-                    <div class="desc"><p>An unsolicited rating is assigned to entities, where the management has not requested a rating, however, agrees to provide informational support  An un so lic ited rat ing is shown with a 'p'...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/unsolic.pdf"  target="_blank">Read More</a></div>
-                </div>
-                <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                       <strong>Educational Institutions</strong>
-                        <p class="date">June, 2002</p>
-                    </div>
-                    <div class="desc"><p>Rating Methodology: Educational institutions fall into the service sector, and thus their rating is based upon their own peculiar parameters.along with the quantitative factors,qualitative factors...</p>
-</div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/school.pdf" >Read More</a></div>
-                </div> 
-
-                                            
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                            
-          </div> <!-- .column -->                
+             <!-- .column -->                
            
         </div> <!-- .boxes-container -->
 
