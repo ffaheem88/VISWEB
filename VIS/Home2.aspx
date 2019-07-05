@@ -347,11 +347,6 @@
                                 </thead>
                                 <%
 
-                                   
-
-
-
-
                                     Dim arrLTRat()
                                     dim arrSTRat()
                                     dim arroutlook()
@@ -683,9 +678,9 @@
                 <div class="row row-1">
                     <div class="sub-tile sub-tile-1">
                         
-                        <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/MethTakaful201906.pdf" target="_blank">
+                        <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-OilGas201906.pdf" target="_blank">
                            <div class="icon"><span></span></div>
-                            <div class="title">Takaful Companies<br><span>June, 2019</span></div>
+                            <div class="title">Oil & Gas Industry<br><span>June, 2019</span></div>
                         
                         </a>    
                                                  
@@ -694,15 +689,13 @@
                                                              
                     <!-- Sub Tile 1 -->
                     <div class="sub-tile sub-tile-2">
-                         <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Corporate-Methodology-201904.pdf" target="_blank">
+                          <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Micro Finance 201906.pdf" target="_blank">
                            <div class="icon"><span></span></div>
-                            <div class="title">Corporates<br><span>May, 2019</span></div>
+                            <div class="title">Micro-finance Banks<br><span>June, 2019</span></div>
                         
-                        </a>  
-
-
-                         
-                                                                                                                                                                                          
+                        </a>    
+                                                         
+                                                                                                                                                                                                                                                      
                     </div>  <!-- Sub Tile 2 -->
                 </div> <!-- .row -->
 
@@ -712,23 +705,29 @@
 
                 <div class="row row-2">
                 <div class="sub-tile sub-tile-3">
-                    <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/REIT management company.pdf" target="_blank">
+                    <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rental(REITs)-201906.pdf" target="_blank">
                            <div class="icon"><span></span></div>
-                            <div class="title">REIT Management Company<br><span>December, 2018</span></div>
+                            <div class="title">Real Estate Investment Trusts<br><span>June, 2019</span></div>
                         
-                        </a>   
-                     
+                        </a>    
+                        
+
+
+                   
+                      
+
+                   
                  
                     </div> <!-- Sub Tile 3 -->
                     <!-- Sub Tile 4 -->
                     <div class="sub-tile sub-tile-4">
 
                       
-              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Toll roads112018.pdf" target="_blank">
+               <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/AMC-Methodology-201906.pdf" target="_blank">
                            <div class="icon"><span></span></div>
-                            <div class="title">Toll Roads Rating</br><span>November, 2018</span></div>
+                            <div class="title">Asset Management<br><span>June, 2019</span></div>
                         
-                        </a>   
+                        </a>
 
 
                            </div>

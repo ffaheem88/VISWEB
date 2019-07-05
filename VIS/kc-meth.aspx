@@ -111,6 +111,28 @@
          <div class="boxes-container site-width cf">
             <div class="column">
             <%--................newbox...............--%>
+
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Oil & Gas Industry</strong>
+                        <p class="date">June, 2019</p>
+                    </div>
+                    <div class="desc"><p>The rating methodology for the oil and gas sector is similar in approach followed for rating industrial concerns. The prime concern is the level and stability of cash flows...</p>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-OilGas201906.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Real Estate Investment Trusts  </strong>
+                        <p class="date">June, 2019</p>
+                    </div>
+                    <div class="desc"><p>Given support on the regulatory front, Real Estate Investment Trusts (REITs) is now accepted as a mainstream investment vehicle that enables investors to pool in their resources...</p>
+                    <p></p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rental(REITs)-201906.pdf"  target="_blank">Read More</a></div>
+                </div>
+
           <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                 <strong>Takaful Companies </strong>
@@ -149,11 +171,6 @@
                             <div class="desc"><p>Similar to instrument ratings by JCR-VIS, a Bank Loan Rating (BLR) indicates the degree of risk regarding timely payment of the interest and principal or commitments being rated... </p></div>
                             <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/BLR112018.pdf"  target="_blank">Read More</a></div>
                             </div>
-          
-          
-          
-          
-          
           
             
                <div class="box box-shadow">
@@ -206,18 +223,7 @@
                 </div>
                             
 
-            <div class="box box-shadow">
-
-
-
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Real Estate Developers </strong>
-                        <p class="date">August, 2017</p>
-                    </div>
-                    <div class="desc"><p>The construction industry plays a very important role in the economic development of any country. In fact, the performance of this industry is one of the key indicators used in many developed countries to monitor...          <br>
-                    <p></p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RealEstate Methodology 201708.pdf"  target="_blank">Read More</a></div>
-                </div>
+            
                           <div class="box box-shadow">
                                   <div class="title cf" style="font-weight: normal">
                 <strong>Linkage between Parent & Subsidiary Companies</strong>
@@ -375,6 +381,25 @@
           </div>
             <div class="column">
 
+                <div class="box box-shadow">
+
+                            <div class="title cf" style="font-weight: normal">
+                            <strong>Micro-finance Banks</strong>
+                            <p class="date">June, 2019</p>
+                            </div>
+                            <div class="desc"><p>Micro-financing has been identified as a powerful means to poverty alleviation as it aims at empowering individuals through the generation of sustainable livelihoods... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Micro Finance 201906.pdf"  target="_blank">Read More</a></div>
+                            </div>
+
+                <div class="box box-shadow">
+
+                            <div class="title cf" style="font-weight: normal">
+                            <strong>Asset Management Companies</strong>
+                            <p class="date">June, 2019</p>
+                            </div>
+                            <div class="desc"><p>Amanagement quality (MQ) rating from VIS provides a relative assessment of an asset management company’s (AMC) investment capabilities and the strength of its operational platform... </p></div>
+                            <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/AMC-Methodology-201906.pdf"  target="_blank">Read More</a></div>
+                            </div>
 
                  <div class="box box-shadow">
 
@@ -516,36 +541,6 @@
                    </div>
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/NPO-Methodology-201605.pdf"  target="_blank">Read More</a></div>
                 </div>
-
-              <%--<div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                        <strong>Commercial Banks</strong>
-                        <p class="date">November, 2015</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS’s rating methodology for commercial banks is composed of three broad analytical frameworks. The assessment begins with system-wide external factors that may impact risk profile...</p>
-                    </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Meth-CommercialBanks201511.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
-              <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                       <strong>Asset Management Companies</strong>
-                        <p class="date">March, 2016</p>
-                    </div>
-                    <div class="desc"><p>MQ Rating by JCR-VIS provides an opinion on the overall quality of the management company as a fund manager. The qualification of a management company is assessed with a view to gauge...</p>
-                    </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/AMC-Methodology-201603.pdf"  target="_blank">Read More</a></div>
-                </div>
-              
-
-          <%--      <div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                       <strong>Management Quality Ratings - Investment Advisors</strong>
-                        <p class="date">February, 2015</p>
-                    </div>
-                    <div class="desc"><p>Management Quality (MQ) Ratings by JCR-VIS Credit Rating Company Limited (JCR-VIS) provide an opinion on a company’s operational and investment platform. Ability to manage assets is assessed with...</p>
-                    </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/MQR-Mehtodology-2015.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
 
                      <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
