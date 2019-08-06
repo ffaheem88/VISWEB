@@ -443,9 +443,13 @@
                                                 <ul>
 												
                                              <%
-                                                    Dim halfyear As Integer = 0
-                                                                                                                                                                   
-                                                    Response.Write("<li><a href='prFile.aspx?mRatingId=" & Rdr("RatingId") & "' target='_blank'> Press Release</a></li> ")
+                                                 If Sector = 1 And 7 And 4 And 3 And 14 And 11 And 10 And 15 And 12 And 21 And 13 And 8 Then
+                                                     Response.Write("<li>&nbsp; | &nbsp;<a target='_Blank' href='https://s3.us-west-2.amazonaws.com/backupsqlvis/IssueDetail/" & Rdr("Contract_Code") & ".pdf'> Issue Detail</a></li> ")
+                                                 End If
+                                                 Dim halfyear As Integer = 0
+
+
+                                                 Response.Write("<li><a href='prFile.aspx?mRatingId=" & Rdr("RatingId") & "' target='_blank'> Press Release</a></li> ")
                                                  'Response.Write("<li>&nbsp; | &nbsp;<a href='history.aspx?viscode=" & Rdr("viscode") & " and RatingType= " & Rdr("RatingType") & "'>History</a></li>")
 												%>   <li> &nbsp; | &nbsp; <a  href="history.aspx?viscode=<%=rdr("viscode")%> &ratingtype=<%=rdr("RatingType") %> ">History</font></a></li>
                                                    
@@ -1798,8 +1802,12 @@
                                                   <ul>
 												
                                              <%
-                                                    Dim halfyear As Integer = 0
-                                                                                                                                                                   
+                                                 Dim halfyear As Integer = 0
+                                                 If Sector = 1 And 7 And 4 And 3 And 14 And 11 And 10 And 15 And 12 And 21 And 13 And 8 Then
+                                                     Response.Write("<li>&nbsp; | &nbsp;<a target='_Blank' href='https://s3.us-west-2.amazonaws.com/backupsqlvis/IssueDetail/" & Rdr("Contract_Code") & ".pdf'> Issue Detail</a></li> ")
+                                                 End If
+
+
                                                  Response.Write("<li><a href='prFile.aspx?mRatingId=" & Rdr("RatingId") & "' target='_blank'> Press Release</a></li> ")
                                                  'Response.Write("<li>&nbsp; | &nbsp;<a href='history.aspx?viscode= " & Rdr("viscode") & " &RatingType= " & Rdr("RatingType") & "'>History</a></li>")
 												 %>   <li> &nbsp; | &nbsp; <a  href="history.aspx?viscode=<%=rdr("viscode")%> &ratingtype=<%=rdr("RatingType") %> ">History</font></a></li>

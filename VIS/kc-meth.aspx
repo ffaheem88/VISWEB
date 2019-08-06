@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="kc-meth.aspx.vb" Inherits="kc_meth" %>
+﻿ <%@ Page Language="VB" AutoEventWireup="false" CodeFile="kc-meth.aspx.vb" Inherits="kc_meth" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -156,7 +156,7 @@
               <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                 <strong>Toll Roads </strong>
-                        <p class="date">November, 2018</p>
+                <p class="date">November, 2018</p>
                     </div>
                     <div class="desc"><p>The ‘Toll Roads Rating’ methodology encompasses the financial strength and debt servicing ability of a company / Special Purpose Vehicle (SPV) that generates revenue through toll road operations...</p>
                    </div>
@@ -207,11 +207,14 @@
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/LifeTakaful 201802.pdf"  target="_blank">Read More</a></div>
                 </div>
 
-                
-                
-
-                                        
-               
+                <div class="box box-shadow">
+                    <div class="title cf" style="font-weight: normal">
+                <strong>Real Estate Developers </strong>
+                        <p class="date">August, 2017</p>
+                    </div>
+                    <div class="desc"><p>The construction industry plays a very impor tant role in the eco nomic development of any coun try. In fact, the performance of this industry is one of the key indica tors used... </p></div>
+                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/RealEstate Methodology 201708.pdf"  target="_blank">Read More</a></div>
+                </div>
 
               <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
@@ -244,15 +247,7 @@
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Hotel Lodging Industry 201707.pdf"  target="_blank">Read More</a></div>
                 </div>
 
-                   <%--<div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                <strong>Takaful Companies </strong>
-                        <p class="date"> December, 2016</p>
-                    </div>
-                    <div class="desc"><p>Akin to conventional insurance, an Insurer Financial Strength (IFS) rating is an assessment of a company’s capacity to meet its contractual obligations that mainly constitute claims on insurance policies...</p>
-                    <p></p></div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/MethTakaful201612.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
+                   
                 
             <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
@@ -285,10 +280,6 @@
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Corporate-Methodology-201605.pdf"  target="_blank">Read More</a></div>
                 </div>
                  
-
-
-                 
-
                            <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                     <strong>Capital Protected Funds</strong>
@@ -320,33 +311,7 @@
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/criteria_parent.pdf"  target="_blank">Read More</a></div>
                 </div> <!-- .box -->
                 
-                  <%--<div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                    <strong> Explaining The Stars</strong>
-                        <p class="date">December, 2013</p>
-                    </div>
-                    <div class="desc"><p>JCR-VIS’ introduction of “Star Rankings” in the Pakistan market in 2004 paved the way for meaningful analysis of performance of mutual funds. The Star Rankings are based on a pure...</p>
-                    </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/ExplainingtheStars.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
-                   <!-- .box -->
-
-
-                   <%--<div class="box box-shadow">
-                    <div class="title cf" style="font-weight: normal">
-                        <strong> Bank Loan Ratings </strong>
-                        <p class="date">December, 2011</p>
-                    </div>
-                    <div class="desc"><p>Bank Loan Ratings (BLRs) are aimed at enhancing the liquidity and transparency of the bank loan market. BLRs incorporate the underlying credit risk of the borrower and the support provided...</p>
-                   </div>
-                    <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/BankLoanRatings.pdf"  target="_blank">Read More</a></div>
-                </div>--%>
-
-                      
-            
-
-
-                <div class="box box-shadow">
+                 <div class="box box-shadow">
                     <div class="title cf" style="font-weight: normal">
                        <strong>Public Finance Rating</strong>
                         <p class="date">October, 2009</p>
@@ -372,10 +337,12 @@
                        <strong>Educational Institutions</strong>
                         <p class="date">June, 2002</p>
                     </div>
+                   
                     <div class="desc"><p>Rating Methodology: Educational institutions fall into the service sector, and thus their rating is based upon their own peculiar parameters.along with the quantitative factors,qualitative factors...</p>
-</div>
+                    </div>
+                    
                     <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/school.pdf" >Read More</a></div>
-                </div> 
+                    </div> 
                                         
                             
           </div>
