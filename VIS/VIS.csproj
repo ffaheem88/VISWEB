@@ -109,11 +109,15 @@
     <Content Include="History.aspx.vb">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
+    <Content Include="history2.aspx" />
+    <Content Include="history2.aspx.vb" />
     <Content Include="Home.aspx" />
     <Content Include="Home2.aspx" />
     <Content Include="Home2.aspx.vb">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
+    <Content Include="home3.aspx" />
+    <Content Include="home3.aspx.vb" />
     <Content Include="HTMLPage.htm" />
     <Content Include="images\1open.gif" />
     <Content Include="images\2ndmenu_bg.gif" />
@@ -369,6 +373,8 @@
     <Content Include="prFile.aspx.vb">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
+    <Content Include="print.aspx" />
+    <Content Include="print.aspx.vb" />
     <Content Include="purchase-rating-report.aspx" />
     <Content Include="purchase-rating-report.aspx.vb" />
     <Content Include="purchase-rating-report.html" />
