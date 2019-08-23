@@ -740,35 +740,42 @@
                             <div class="column column-1">
 
                            <div class="sub-tile sub-tile-1">
-                          
-                            <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/paperboard052019.pdf" target="_blank">
-                                <div class="title">Paperboard<br/><span>May, 2019</span></div>
+                            <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/OMCs201908.pdf" target="_blank">
+                                <div class="title">Oil Marketing Companies<br/><span>August, 2019</span></div>
                             </a>
-
+                           
                              </div>
                            <div class="sub-tile sub-tile-2">
-                              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Ethanol042019.pdf" target="_blank">
-                                <div class="title">Ethanol Industry<br/><span>March, 2019</span></div>
-                            </a>
 
+                                <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Broker042019.pdf" target="_blank">
+                                <div class="title">Brokerage<br/><span>March, 2019</span></div>
+                            </a>
+                            
+
+                             
                                                    
                                </div> <!-- Sub Tile 2 -->
                         
                     </div> <!-- .column -->
                           <div class="column column-2">
                         <div class="sub-tile sub-tile-3">
-                              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Broker042019.pdf" target="_blank">
-                                <div class="title">Brokerage<br/><span>March, 2019</span></div>
+                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/paperboard052019.pdf" target="_blank">
+                                <div class="title">Paperboard<br/><span>May, 2019</span></div>
                             </a>
-                            
+
+
+
+                             
 
                            
                           </div> <!-- Sub Tile 3 -->
                          <div class="sub-tile sub-tile-4">
-                              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/sugar201904.pdf" target="_blank">
-                                <div class="title">Sugar Industry <br/><span>March, 2019</span></div>
+                              <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Ethanol042019.pdf" target="_blank">
+                                <div class="title">Ethanol Industry<br/><span>March, 2019</span></div>
                             </a>
 
+                             
+                             
 
                                                        </div> <!-- Sub Tile 4 -->
                         
@@ -786,9 +793,15 @@
                     <div class="column column-3">
 
                         <div class="sub-tile sub-tile-5">
-                                  <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf" target="_blank">
-                                <div class="title">Rice Industry <br/><span>February, 2019</span></div>
+                            
+                             
+                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/sugar201904.pdf" target="_blank">
+                                <div class="title">Sugar Industry <br/><span>March, 2019</span></div>
                             </a>
+
+
+
+                                 
                             
                            
                             
@@ -796,10 +809,11 @@
                    
                         </div> <!-- Sub Tile 5 -->
                         <div class="sub-tile sub-tile-8">
-
-                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf" target="_blank">
-                                <div class="title">Cement Industry<br/><span>February, 2019</span></div>
-                            </a>
+                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf" target="_blank">
+                                <div class="title">Flat Steel<br/><span>February, 2019</span></div>
+                            </a> 
+                             
+                           
                             
                           
                        
@@ -811,19 +825,20 @@
                     <div class="column column-4">
 
                         <div class="sub-tile sub-tile-7">
-                        <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/FlatSteel201902.pdf" target="_blank">
-                                <div class="title">Flat Steel<br/><span>February, 2019</span></div>
-                            </a> 
-                             
+                             <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf" target="_blank">
+                                <div class="title">Rice Industry <br/><span>February, 2019</span></div>
+                            </a>
+
+
+                       
                             
 
 
                         </div> <!-- Sub Tile 7 -->
                         <div class="sub-tile sub-tile-6">
-                               <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Auto components201811.pdf" target="_blank">
-                                <div class="title">Auto Components <br/><span>November, 2018</span></div>
+                                 <a class="link" href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf" target="_blank">
+                                <div class="title">Cement Industry<br/><span>February, 2019</span></div>
                             </a>
-                            
                      
                            
                               

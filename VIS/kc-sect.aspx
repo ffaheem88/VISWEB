@@ -115,7 +115,62 @@
              <p class="date1">Year 2019:</p>
            <br />
            <div class="boxes-cont" >
-            
+            <div class="column">
+                   <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Oil Marketing Companies</strong>
+                     
+                        <p class="date">August, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/omcs.png" />
+                        
+               <p>Oil marketing industry structure is semi-oligopolistic with few large players dominating the market. During FY19, top 5 players accounted for around four-fifth of the total industry volumes...</p></div>
+                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/OMCs201908.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+
+                <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Ethanol Industry</strong>
+                     
+                        <p class="date">March, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/ethanol.png" />
+                        
+               <p>Ethanol is manufactured by use of renewable or bio-based raw material feedstock. Based on the feedstock type, the market is classified into three product segments which...</p></div>
+                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Ethanol042019.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+                <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Sugar Industry</strong>
+                     
+                        <p class="date">March, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/sugar.png" />
+                        
+               <p>The sugar industry plays a vital role in creating economic activity for farmers as well as manufacturers, providing revenue to different segments of the economy...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/sugar201904.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+                <div class="box box-shadow">
+                 <div class="title cf" style="font-weight: normal">
+                        <strong>Rice Industry</strong>
+                     
+                        <p class="date">February, 2019</p>
+                    </div>
+                    <div class="desc">
+                        <img src="img/icons/rice.png" />
+                        
+               <p>Over the past five years, global rice consumption has increased at a compound annual growth rate (CAGR) of 0.7%. In 2018, global rice consumption increased by 0.6%...</p></div>
+                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf"  target="_blank">Read More</a></div>
+                </div>
+
+        
+                </div>
                 <div class="column">
                     <div class="box box-shadow">
                  <div class="title cf" style="font-weight: normal">
@@ -166,48 +221,7 @@
                  <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Cement201902.pdf"  target="_blank">Read More</a></div>
                 </div>
                 </div>
-               <div class="column">
-                <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Ethanol Industry</strong>
-                     
-                        <p class="date">March, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/ethanol.png" />
-                        
-               <p>Ethanol is manufactured by use of renewable or bio-based raw material feedstock. Based on the feedstock type, the market is classified into three product segments which...</p></div>
-                   <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Ethanol042019.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-                <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Sugar Industry</strong>
-                     
-                        <p class="date">March, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/sugar.png" />
-                        
-               <p>The sugar industry plays a vital role in creating economic activity for farmers as well as manufacturers, providing revenue to different segments of the economy...</p></div>
-                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/sugar201904.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-                <div class="box box-shadow">
-                 <div class="title cf" style="font-weight: normal">
-                        <strong>Rice Industry</strong>
-                     
-                        <p class="date">February, 2019</p>
-                    </div>
-                    <div class="desc">
-                        <img src="img/icons/rice.png" />
-                        
-               <p>Over the past five years, global rice consumption has increased at a compound annual growth rate (CAGR) of 0.7%. In 2018, global rice consumption increased by 0.6%...</p></div>
-                 <div class="button"><a href="https://s3-us-west-2.amazonaws.com/backupsqlvis/docs/Rice201902.pdf"  target="_blank">Read More</a></div>
-                </div>
-
-        
-                </div>
+               
                 </div>
 
            <p class="date1">Year 2018:</p>
